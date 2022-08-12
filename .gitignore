@@ -1,0 +1,11 @@
+.idea
+*.log
+build
+dist
+fluentui-emoji
+lib
+node_modules
+src/config/build.config.json
+src/data/devicon.data.json
+svg
+yarn-error.log

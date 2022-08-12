@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "fluentui-emoji",
+    "node_modules",
+    "lib",
+    "src",
+  ]
+}
