@@ -1,7 +1,6 @@
-type Props = {
+type Item = {
   name: string;
-  componentName: string;
-  tags?: string[];
+  svg: string;
 };
 
-export default Props;
+export default Item;

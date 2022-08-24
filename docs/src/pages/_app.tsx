@@ -1,22 +1,33 @@
-import type { AppProps } from 'next/app';
+import '@/components/Nav/App.scss';
 
+import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import { DefaultSeo } from 'next-seo';
-import { Fragment } from 'react';
 
+import Navbar from '@/components/Nav';
+import Notification from '@/components/ui/notifications';
 import SEO from '@/config/next-seo.config';
-import { GlobalStyle } from '@/assets/style/style';
+import { Container,GlobalStyle } from '@/style/style';
 
 const App = ({ Component, pageProps }: AppProps) => {
   return (
-    <Fragment>
+    <>
       <Head>
         <meta name="viewport" content="width=device-width,initial-scale=1" />
       </Head>
       <DefaultSeo {...SEO} />
       <GlobalStyle />
-      <Component {...pageProps} />
-    </Fragment>
+      <Notification>
+        <div className="app">
+          <Navbar />
+          <main>
+            <Container>
+              <Component {...pageProps} />
+            </Container>
+          </main>
+        </div>
+      </Notification>
+    </>
   );
 };
 

@@ -15,6 +15,7 @@ type ObjConfig = {
 const generateSvgComponent = async (
   rootDir: string,
   outDir: string,
+  prefix: string,
   isHighContrast: boolean,
 ) => {
   if (fs.existsSync(`${__dirname}/../../build/${outDir}`)) {
@@ -58,7 +59,7 @@ const generateSvgComponent = async (
 
       const dir = `${__dirname}/../../build/${outDir}/icons`;
 
-      const reactName = `Icon${name}`;
+      const reactName = `${prefix}${name}`;
 
       index.push([reactName, `./icons/${reactName}`]);
 
@@ -98,7 +99,7 @@ module.exports = function ${reactName}({size = "1rem", ${
   }
   return (${(await svgtojsx(svg.outerHTML)).replace(
     '<svg',
-    '<svg {...props}',
+    '<svg {...props} viewBox="0 0 32 32"',
   )});
 }`;
 
@@ -148,18 +149,29 @@ const buildIndex = async (index: [string, string][]) => {
   await generateSvgComponent(
     'fluentui-emoji/icons/high-contrast',
     'high-contrast',
+    'IconHC',
     true,
   );
 
-  await generateSvgComponent('fluentui-emoji/icons/flat', 'flat', false);
+  await generateSvgComponent(
+    'fluentui-emoji/icons/flat',
+    'flat',
+    'IconF',
+    false,
+  );
 
-  await generateSvgComponent('fluentui-emoji/icons/modern', 'modern', false);
+  await generateSvgComponent(
+    'fluentui-emoji/icons/modern',
+    'modern',
+    'IconM',
+    false,
+  );
 
-  const index: [string, string][] = [
-    ['HighContrast', './high-contrast'],
-    ['Flat', './flat'],
-    ['Modern', './modern'],
-  ];
+  // const index: [string, string][] = [
+  //   ['HighContrast', './high-contrast'],
+  //   ['Flat', './flat'],
+  //   ['Modern', './modern'],
+  // ];
 
-  await buildIndex(index);
+  // await buildIndex(index);
 })();

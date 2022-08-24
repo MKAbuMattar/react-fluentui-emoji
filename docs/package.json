@@ -1,53 +1,37 @@
 {
-  "name": "react-fluentui-emoji-docs",
-  "version": "0.0.0",
+  "name": "fluentui-emoji-docs",
+  "version": "0.0.0-beta.0.0.6",
   "private": true,
-  "description": "",
-  "keywords": [
-    "programming",
-    "icons",
-    "react",
-    "typescript",
-    "docs"
-  ],
-  "license": "MIT",
-  "author": {
-    "name": "Mohammad Abu Mattar",
-    "email": "mohammad.khaled@outlook.com",
-    "url": "https://mkabumattar.github.io/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MKAbuMattar/react-fluentui-emoji.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MKAbuMattar/react-fluentui-emoji/issues"
-  },
-  "homepage": "https://react-fluentui-emoji.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --fix",
-    "prettier": "prettier --write ."
+    "lint": "next lint"
   },
   "dependencies": {
     "devicons-react": "1.2.4",
     "highlight.js": "11.6.0",
-    "next": "12.2.4",
-    "next-pwa": "5.5.5",
+    "next": "12.2.5",
+    "next-pwa": "5.5.4",
     "next-seo": "5.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "5.3.5"
+    "react-fluentui-emoji": "0.0.0-beta.0.0.6",
+    "react-pro-sidebar": "0.7.1",
+    "styled-components": "5.3.5",
+    "uuid": "8.3.2"
   },
   "devDependencies": {
-    "@types/node": "18.7.1",
+    "@types/node": "18.7.6",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
     "@types/styled-components": "5.1.26",
+    "@types/uuid": "8.3.4",
     "babel-plugin-styled-components": "2.0.7",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
     "prettier": "2.7.1",
+    "sass": "1.54.5",
     "typescript": "4.7.4"
   },
   "resolutions": {
