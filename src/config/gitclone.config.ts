@@ -1,7 +1,7 @@
 import { exec } from 'child_process';
 
 (() => {
-  const master = 'git clone https://github.com/microsoft/fluentui-emoji.git';
+  const master = 'git clone https://github.com/MKAbuMattar/fluentui-emoji.git';
 
   exec(master, (error, stdout, stderr) => {
     if (error) {
