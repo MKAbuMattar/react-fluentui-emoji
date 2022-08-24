@@ -15,7 +15,7 @@ import SidebarBg from '@/assets/img/bg2.jpg';
 import HighContrastData from '@/data/build.data.high-contrast.json';
 import FlatData from '@/data/build.data.flat.json';
 import ModernData from '@/data/build.data.modern.json';
-import { Fonticons, Modern, Regular, Solid, SVG, Unicode } from '@/icons/index';
+import { Modern, Regular, Solid } from '@/icons/index';
 
 import pkg from '../../../package.json';
 import { NavBanner, NavGithub, NavTitle } from './style';
