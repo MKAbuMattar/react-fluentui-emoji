@@ -1,7 +1,7 @@
 {
-  "short_name": "Devicons React",
-  "name": "Devicons React",
-  "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
+  "short_name": "Fluentui Emoji",
+  "name": "Fluentui Emoji",
+  "description": "Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
   "icons": [
     {
       "src": "/icon/favicon.ico",

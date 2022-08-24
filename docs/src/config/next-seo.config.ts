@@ -1,12 +1,12 @@
 export default {
-  title: 'Devicons React',
+  title: 'React Fluentui Emoji',
   description:
-    'Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.',
+    'React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.',
   openGraph: {
     type: 'website',
     locale: 'en_IE',
-    url: 'https://devicons-react.vercel.app/',
-    site_name: 'Devicons React',
+    url: 'https://react-fluentui-emoji.vercel.app/',
+    site_name: 'Fluentui Emoji',
   },
   twitter: {
     handle: '@mkabumattar',
