@@ -1,0 +1,6126 @@
+[
+  {
+    "name": "1st Place Medal",
+    "svg": "1st-place-medal.svg"
+  },
+  {
+    "name": "2nd Place Medal",
+    "svg": "2nd-place-medal.svg"
+  },
+  {
+    "name": "3rd Place Medal",
+    "svg": "3rd-place-medal.svg"
+  },
+  {
+    "name": "A Button Blood Type",
+    "svg": "a-button-blood-type.svg"
+  },
+  {
+    "name": "Ab Button Blood Type",
+    "svg": "ab-button-blood-type.svg"
+  },
+  {
+    "name": "Abacus",
+    "svg": "abacus.svg"
+  },
+  {
+    "name": "Accordion",
+    "svg": "accordion.svg"
+  },
+  {
+    "name": "Adhesive Bandage",
+    "svg": "adhesive-bandage.svg"
+  },
+  {
+    "name": "Admission Tickets",
+    "svg": "admission-tickets.svg"
+  },
+  {
+    "name": "Aerial Tramway",
+    "svg": "aerial-tramway.svg"
+  },
+  {
+    "name": "Airplane Arrival",
+    "svg": "airplane-arrival.svg"
+  },
+  {
+    "name": "Airplane Departure",
+    "svg": "airplane-departure.svg"
+  },
+  {
+    "name": "Airplane",
+    "svg": "airplane.svg"
+  },
+  {
+    "name": "Alarm Clock",
+    "svg": "alarm-clock.svg"
+  },
+  {
+    "name": "Alembic",
+    "svg": "alembic.svg"
+  },
+  {
+    "name": "Alien Monster",
+    "svg": "alien-monster.svg"
+  },
+  {
+    "name": "Alien",
+    "svg": "alien.svg"
+  },
+  {
+    "name": "Ambulance",
+    "svg": "ambulance.svg"
+  },
+  {
+    "name": "American Football",
+    "svg": "american-football.svg"
+  },
+  {
+    "name": "Amphora",
+    "svg": "amphora.svg"
+  },
+  {
+    "name": "Anatomical Heart",
+    "svg": "anatomical-heart.svg"
+  },
+  {
+    "name": "Anchor",
+    "svg": "anchor.svg"
+  },
+  {
+    "name": "Anger Symbol",
+    "svg": "anger-symbol.svg"
+  },
+  {
+    "name": "Angry Face With Horns",
+    "svg": "angry-face-with-horns.svg"
+  },
+  {
+    "name": "Angry Face",
+    "svg": "angry-face.svg"
+  },
+  {
+    "name": "Anguished Face",
+    "svg": "anguished-face.svg"
+  },
+  {
+    "name": "Ant",
+    "svg": "ant.svg"
+  },
+  {
+    "name": "Antenna Bars",
+    "svg": "antenna-bars.svg"
+  },
+  {
+    "name": "Anxious Face With Sweat",
+    "svg": "anxious-face-with-sweat.svg"
+  },
+  {
+    "name": "Aquarius",
+    "svg": "aquarius.svg"
+  },
+  {
+    "name": "Aries",
+    "svg": "aries.svg"
+  },
+  {
+    "name": "Articulated Lorry",
+    "svg": "articulated-lorry.svg"
+  },
+  {
+    "name": "Artist Palette",
+    "svg": "artist-palette.svg"
+  },
+  {
+    "name": "Artist",
+    "svg": "artist.svg"
+  },
+  {
+    "name": "Astonished Face",
+    "svg": "astonished-face.svg"
+  },
+  {
+    "name": "Astronaut",
+    "svg": "astronaut.svg"
+  },
+  {
+    "name": "Atm Sign",
+    "svg": "atm-sign.svg"
+  },
+  {
+    "name": "Atom Symbol",
+    "svg": "atom-symbol.svg"
+  },
+  {
+    "name": "Auto Rickshaw",
+    "svg": "auto-rickshaw.svg"
+  },
+  {
+    "name": "Automobile",
+    "svg": "automobile.svg"
+  },
+  {
+    "name": "Avocado",
+    "svg": "avocado.svg"
+  },
+  {
+    "name": "Axe",
+    "svg": "axe.svg"
+  },
+  {
+    "name": "B Button Blood Type",
+    "svg": "b-button-blood-type.svg"
+  },
+  {
+    "name": "Baby Angel",
+    "svg": "baby-angel.svg"
+  },
+  {
+    "name": "Baby Bottle",
+    "svg": "baby-bottle.svg"
+  },
+  {
+    "name": "Baby Chick",
+    "svg": "baby-chick.svg"
+  },
+  {
+    "name": "Baby Symbol",
+    "svg": "baby-symbol.svg"
+  },
+  {
+    "name": "Baby",
+    "svg": "baby.svg"
+  },
+  {
+    "name": "Back Arrow",
+    "svg": "back-arrow.svg"
+  },
+  {
+    "name": "Backhand Index Pointing Down",
+    "svg": "backhand-index-pointing-down.svg"
+  },
+  {
+    "name": "Backhand Index Pointing Left",
+    "svg": "backhand-index-pointing-left.svg"
+  },
+  {
+    "name": "Backhand Index Pointing Right",
+    "svg": "backhand-index-pointing-right.svg"
+  },
+  {
+    "name": "Backhand Index Pointing up",
+    "svg": "backhand-index-pointing-up.svg"
+  },
+  {
+    "name": "Backpack",
+    "svg": "backpack.svg"
+  },
+  {
+    "name": "Bacon",
+    "svg": "bacon.svg"
+  },
+  {
+    "name": "Badger",
+    "svg": "badger.svg"
+  },
+  {
+    "name": "Badminton",
+    "svg": "badminton.svg"
+  },
+  {
+    "name": "Bagel",
+    "svg": "bagel.svg"
+  },
+  {
+    "name": "Baggage Claim",
+    "svg": "baggage-claim.svg"
+  },
+  {
+    "name": "Baguette Bread",
+    "svg": "baguette-bread.svg"
+  },
+  {
+    "name": "Balance Scale",
+    "svg": "balance-scale.svg"
+  },
+  {
+    "name": "Ballet Shoes",
+    "svg": "ballet-shoes.svg"
+  },
+  {
+    "name": "Balloon",
+    "svg": "balloon.svg"
+  },
+  {
+    "name": "Ballot Box With Ballot",
+    "svg": "ballot-box-with-ballot.svg"
+  },
+  {
+    "name": "Banana",
+    "svg": "banana.svg"
+  },
+  {
+    "name": "Banjo",
+    "svg": "banjo.svg"
+  },
+  {
+    "name": "Bank",
+    "svg": "bank.svg"
+  },
+  {
+    "name": "Bar Chart",
+    "svg": "bar-chart.svg"
+  },
+  {
+    "name": "Barber Pole",
+    "svg": "barber-pole.svg"
+  },
+  {
+    "name": "Baseball",
+    "svg": "baseball.svg"
+  },
+  {
+    "name": "Basket",
+    "svg": "basket.svg"
+  },
+  {
+    "name": "Basketball",
+    "svg": "basketball.svg"
+  },
+  {
+    "name": "Bat",
+    "svg": "bat.svg"
+  },
+  {
+    "name": "Bathtub",
+    "svg": "bathtub.svg"
+  },
+  {
+    "name": "Battery",
+    "svg": "battery.svg"
+  },
+  {
+    "name": "Beach With Umbrella",
+    "svg": "beach-with-umbrella.svg"
+  },
+  {
+    "name": "Beaming Face With Smiling Eyes",
+    "svg": "beaming-face-with-smiling-eyes.svg"
+  },
+  {
+    "name": "Beans",
+    "svg": "beans.svg"
+  },
+  {
+    "name": "Bear",
+    "svg": "bear.svg"
+  },
+  {
+    "name": "Beating Heart",
+    "svg": "beating-heart.svg"
+  },
+  {
+    "name": "Beaver",
+    "svg": "beaver.svg"
+  },
+  {
+    "name": "Bed",
+    "svg": "bed.svg"
+  },
+  {
+    "name": "Beer Mug",
+    "svg": "beer-mug.svg"
+  },
+  {
+    "name": "Beetle",
+    "svg": "beetle.svg"
+  },
+  {
+    "name": "Bell Pepper",
+    "svg": "bell-pepper.svg"
+  },
+  {
+    "name": "Bell With Slash",
+    "svg": "bell-with-slash.svg"
+  },
+  {
+    "name": "Bell",
+    "svg": "bell.svg"
+  },
+  {
+    "name": "Bellhop Bell",
+    "svg": "bellhop-bell.svg"
+  },
+  {
+    "name": "Bento Box",
+    "svg": "bento-box.svg"
+  },
+  {
+    "name": "Beverage Box",
+    "svg": "beverage-box.svg"
+  },
+  {
+    "name": "Bicycle",
+    "svg": "bicycle.svg"
+  },
+  {
+    "name": "Bikini",
+    "svg": "bikini.svg"
+  },
+  {
+    "name": "Billed Cap",
+    "svg": "billed-cap.svg"
+  },
+  {
+    "name": "Biohazard",
+    "svg": "biohazard.svg"
+  },
+  {
+    "name": "Bird",
+    "svg": "bird.svg"
+  },
+  {
+    "name": "Birthday Cake",
+    "svg": "birthday-cake.svg"
+  },
+  {
+    "name": "Bison",
+    "svg": "bison.svg"
+  },
+  {
+    "name": "Biting Lip",
+    "svg": "biting-lip.svg"
+  },
+  {
+    "name": "Black Cat",
+    "svg": "black-cat.svg"
+  },
+  {
+    "name": "Black Circle",
+    "svg": "black-circle.svg"
+  },
+  {
+    "name": "Black Flag",
+    "svg": "black-flag.svg"
+  },
+  {
+    "name": "Black Heart",
+    "svg": "black-heart.svg"
+  },
+  {
+    "name": "Black Large Square",
+    "svg": "black-large-square.svg"
+  },
+  {
+    "name": "Black Medium Small Square",
+    "svg": "black-medium-small-square.svg"
+  },
+  {
+    "name": "Black Medium Square",
+    "svg": "black-medium-square.svg"
+  },
+  {
+    "name": "Black Nib",
+    "svg": "black-nib.svg"
+  },
+  {
+    "name": "Black Small Square",
+    "svg": "black-small-square.svg"
+  },
+  {
+    "name": "Black Square Button",
+    "svg": "black-square-button.svg"
+  },
+  {
+    "name": "Blossom",
+    "svg": "blossom.svg"
+  },
+  {
+    "name": "Blowfish",
+    "svg": "blowfish.svg"
+  },
+  {
+    "name": "Blue Book",
+    "svg": "blue-book.svg"
+  },
+  {
+    "name": "Blue Circle",
+    "svg": "blue-circle.svg"
+  },
+  {
+    "name": "Blue Heart",
+    "svg": "blue-heart.svg"
+  },
+  {
+    "name": "Blue Square",
+    "svg": "blue-square.svg"
+  },
+  {
+    "name": "Blueberries",
+    "svg": "blueberries.svg"
+  },
+  {
+    "name": "Boar",
+    "svg": "boar.svg"
+  },
+  {
+    "name": "Bomb",
+    "svg": "bomb.svg"
+  },
+  {
+    "name": "Bone",
+    "svg": "bone.svg"
+  },
+  {
+    "name": "Bookmark Tabs",
+    "svg": "bookmark-tabs.svg"
+  },
+  {
+    "name": "Bookmark",
+    "svg": "bookmark.svg"
+  },
+  {
+    "name": "Books",
+    "svg": "books.svg"
+  },
+  {
+    "name": "Boomerang",
+    "svg": "boomerang.svg"
+  },
+  {
+    "name": "Bottle With Popping Cork",
+    "svg": "bottle-with-popping-cork.svg"
+  },
+  {
+    "name": "Bouquet",
+    "svg": "bouquet.svg"
+  },
+  {
+    "name": "Bow And Arrow",
+    "svg": "bow-and-arrow.svg"
+  },
+  {
+    "name": "Bowl With Spoon",
+    "svg": "bowl-with-spoon.svg"
+  },
+  {
+    "name": "Bowling",
+    "svg": "bowling.svg"
+  },
+  {
+    "name": "Boxing Glove",
+    "svg": "boxing-glove.svg"
+  },
+  {
+    "name": "Boy",
+    "svg": "boy.svg"
+  },
+  {
+    "name": "Brain",
+    "svg": "brain.svg"
+  },
+  {
+    "name": "Bread",
+    "svg": "bread.svg"
+  },
+  {
+    "name": "Breast Feeding",
+    "svg": "breast-feeding.svg"
+  },
+  {
+    "name": "Brick",
+    "svg": "brick.svg"
+  },
+  {
+    "name": "Bridge at Night",
+    "svg": "bridge-at-night.svg"
+  },
+  {
+    "name": "Briefcase",
+    "svg": "briefcase.svg"
+  },
+  {
+    "name": "Briefs",
+    "svg": "briefs.svg"
+  },
+  {
+    "name": "Bright Button",
+    "svg": "bright-button.svg"
+  },
+  {
+    "name": "Broccoli",
+    "svg": "broccoli.svg"
+  },
+  {
+    "name": "Broken Heart",
+    "svg": "broken-heart.svg"
+  },
+  {
+    "name": "Broom",
+    "svg": "broom.svg"
+  },
+  {
+    "name": "Brown Circle",
+    "svg": "brown-circle.svg"
+  },
+  {
+    "name": "Brown Heart",
+    "svg": "brown-heart.svg"
+  },
+  {
+    "name": "Brown Square",
+    "svg": "brown-square.svg"
+  },
+  {
+    "name": "Bubble Tea",
+    "svg": "bubble-tea.svg"
+  },
+  {
+    "name": "Bubbles",
+    "svg": "bubbles.svg"
+  },
+  {
+    "name": "Bucket",
+    "svg": "bucket.svg"
+  },
+  {
+    "name": "Bug",
+    "svg": "bug.svg"
+  },
+  {
+    "name": "Building Construction",
+    "svg": "building-construction.svg"
+  },
+  {
+    "name": "Bullet Train",
+    "svg": "bullet-train.svg"
+  },
+  {
+    "name": "Bullseye",
+    "svg": "bullseye.svg"
+  },
+  {
+    "name": "Burrito",
+    "svg": "burrito.svg"
+  },
+  {
+    "name": "Bus Stop",
+    "svg": "bus-stop.svg"
+  },
+  {
+    "name": "Bus",
+    "svg": "bus.svg"
+  },
+  {
+    "name": "Bust in Silhouette",
+    "svg": "bust-in-silhouette.svg"
+  },
+  {
+    "name": "Busts in Silhouette",
+    "svg": "busts-in-silhouette.svg"
+  },
+  {
+    "name": "Butter",
+    "svg": "butter.svg"
+  },
+  {
+    "name": "Butterfly",
+    "svg": "butterfly.svg"
+  },
+  {
+    "name": "Cactus",
+    "svg": "cactus.svg"
+  },
+  {
+    "name": "Calendar",
+    "svg": "calendar.svg"
+  },
+  {
+    "name": "Call me Hand",
+    "svg": "call-me-hand.svg"
+  },
+  {
+    "name": "Camel",
+    "svg": "camel.svg"
+  },
+  {
+    "name": "Camera With Flash",
+    "svg": "camera-with-flash.svg"
+  },
+  {
+    "name": "Camera",
+    "svg": "camera.svg"
+  },
+  {
+    "name": "Camping",
+    "svg": "camping.svg"
+  },
+  {
+    "name": "Cancer",
+    "svg": "cancer.svg"
+  },
+  {
+    "name": "Candle",
+    "svg": "candle.svg"
+  },
+  {
+    "name": "Candy",
+    "svg": "candy.svg"
+  },
+  {
+    "name": "Canned Food",
+    "svg": "canned-food.svg"
+  },
+  {
+    "name": "Canoe",
+    "svg": "canoe.svg"
+  },
+  {
+    "name": "Capricorn",
+    "svg": "capricorn.svg"
+  },
+  {
+    "name": "Card File Box",
+    "svg": "card-file-box.svg"
+  },
+  {
+    "name": "Card Index Dividers",
+    "svg": "card-index-dividers.svg"
+  },
+  {
+    "name": "Card Index",
+    "svg": "card-index.svg"
+  },
+  {
+    "name": "Carousel Horse",
+    "svg": "carousel-horse.svg"
+  },
+  {
+    "name": "Carp Streamer",
+    "svg": "carp-streamer.svg"
+  },
+  {
+    "name": "Carpentry Saw",
+    "svg": "carpentry-saw.svg"
+  },
+  {
+    "name": "Carrot",
+    "svg": "carrot.svg"
+  },
+  {
+    "name": "Castle",
+    "svg": "castle.svg"
+  },
+  {
+    "name": "Cat Face",
+    "svg": "cat-face.svg"
+  },
+  {
+    "name": "Cat With Tears of Joy",
+    "svg": "cat-with-tears-of-joy.svg"
+  },
+  {
+    "name": "Cat With Wry Smile",
+    "svg": "cat-with-wry-smile.svg"
+  },
+  {
+    "name": "Cat",
+    "svg": "cat.svg"
+  },
+  {
+    "name": "Chains",
+    "svg": "chains.svg"
+  },
+  {
+    "name": "Chair",
+    "svg": "chair.svg"
+  },
+  {
+    "name": "Chart Decreasing",
+    "svg": "chart-decreasing.svg"
+  },
+  {
+    "name": "Chart Increasing With Yen",
+    "svg": "chart-increasing-with-yen.svg"
+  },
+  {
+    "name": "Chart Increasing",
+    "svg": "chart-increasing.svg"
+  },
+  {
+    "name": "Check Box With Check",
+    "svg": "check-box-with-check.svg"
+  },
+  {
+    "name": "Check Mark Button",
+    "svg": "check-mark-button.svg"
+  },
+  {
+    "name": "Check Mark",
+    "svg": "check-mark.svg"
+  },
+  {
+    "name": "Cheese Wedge",
+    "svg": "cheese-wedge.svg"
+  },
+  {
+    "name": "Chequered Flag",
+    "svg": "chequered-flag.svg"
+  },
+  {
+    "name": "Cherries",
+    "svg": "cherries.svg"
+  },
+  {
+    "name": "Cherry Blossom",
+    "svg": "cherry-blossom.svg"
+  },
+  {
+    "name": "Chess Pawn",
+    "svg": "chess-pawn.svg"
+  },
+  {
+    "name": "Chestnut",
+    "svg": "chestnut.svg"
+  },
+  {
+    "name": "Chicken",
+    "svg": "chicken.svg"
+  },
+  {
+    "name": "Child",
+    "svg": "child.svg"
+  },
+  {
+    "name": "Children Crossing",
+    "svg": "children-crossing.svg"
+  },
+  {
+    "name": "Chipmunk",
+    "svg": "chipmunk.svg"
+  },
+  {
+    "name": "Chocolate Bar",
+    "svg": "chocolate-bar.svg"
+  },
+  {
+    "name": "Chopsticks",
+    "svg": "chopsticks.svg"
+  },
+  {
+    "name": "Christmas Tree",
+    "svg": "christmas-tree.svg"
+  },
+  {
+    "name": "Church",
+    "svg": "church.svg"
+  },
+  {
+    "name": "Cigarette",
+    "svg": "cigarette.svg"
+  },
+  {
+    "name": "Cinema",
+    "svg": "cinema.svg"
+  },
+  {
+    "name": "Circled m",
+    "svg": "circled-m.svg"
+  },
+  {
+    "name": "Circus Tent",
+    "svg": "circus-tent.svg"
+  },
+  {
+    "name": "Cityscape at Dusk",
+    "svg": "cityscape-at-dusk.svg"
+  },
+  {
+    "name": "Cityscape",
+    "svg": "cityscape.svg"
+  },
+  {
+    "name": "Cl Button",
+    "svg": "cl-button.svg"
+  },
+  {
+    "name": "Clamp",
+    "svg": "clamp.svg"
+  },
+  {
+    "name": "Clapper Board",
+    "svg": "clapper-board.svg"
+  },
+  {
+    "name": "Clapping Hands",
+    "svg": "clapping-hands.svg"
+  },
+  {
+    "name": "Classical Building",
+    "svg": "classical-building.svg"
+  },
+  {
+    "name": "Clinking Beer Mugs",
+    "svg": "clinking-beer-mugs.svg"
+  },
+  {
+    "name": "Clinking Glasses",
+    "svg": "clinking-glasses.svg"
+  },
+  {
+    "name": "Clipboard",
+    "svg": "clipboard.svg"
+  },
+  {
+    "name": "Clockwise Vertical Arrows",
+    "svg": "clockwise-vertical-arrows.svg"
+  },
+  {
+    "name": "Closed Book",
+    "svg": "closed-book.svg"
+  },
+  {
+    "name": "Closed Mailbox With Lowered Flag",
+    "svg": "closed-mailbox-with-lowered-flag.svg"
+  },
+  {
+    "name": "Closed Mailbox With Raised Flag",
+    "svg": "closed-mailbox-with-raised-flag.svg"
+  },
+  {
+    "name": "Closed Umbrella",
+    "svg": "closed-umbrella.svg"
+  },
+  {
+    "name": "Cloud With Lightning And Rain",
+    "svg": "cloud-with-lightning-and-rain.svg"
+  },
+  {
+    "name": "Cloud With Lightning",
+    "svg": "cloud-with-lightning.svg"
+  },
+  {
+    "name": "Cloud With Rain",
+    "svg": "cloud-with-rain.svg"
+  },
+  {
+    "name": "Cloud With Snow",
+    "svg": "cloud-with-snow.svg"
+  },
+  {
+    "name": "Cloud",
+    "svg": "cloud.svg"
+  },
+  {
+    "name": "Clown Face",
+    "svg": "clown-face.svg"
+  },
+  {
+    "name": "Club Suit",
+    "svg": "club-suit.svg"
+  },
+  {
+    "name": "Clutch Bag",
+    "svg": "clutch-bag.svg"
+  },
+  {
+    "name": "Coat",
+    "svg": "coat.svg"
+  },
+  {
+    "name": "Cockroach",
+    "svg": "cockroach.svg"
+  },
+  {
+    "name": "Cocktail Glass",
+    "svg": "cocktail-glass.svg"
+  },
+  {
+    "name": "Coconut",
+    "svg": "coconut.svg"
+  },
+  {
+    "name": "Coffin",
+    "svg": "coffin.svg"
+  },
+  {
+    "name": "Coin",
+    "svg": "coin.svg"
+  },
+  {
+    "name": "Cold Face",
+    "svg": "cold-face.svg"
+  },
+  {
+    "name": "Collision",
+    "svg": "collision.svg"
+  },
+  {
+    "name": "Comet",
+    "svg": "comet.svg"
+  },
+  {
+    "name": "Compass",
+    "svg": "compass.svg"
+  },
+  {
+    "name": "Computer Disk",
+    "svg": "computer-disk.svg"
+  },
+  {
+    "name": "Computer Mouse",
+    "svg": "computer-mouse.svg"
+  },
+  {
+    "name": "Confetti Ball",
+    "svg": "confetti-ball.svg"
+  },
+  {
+    "name": "Confounded Face",
+    "svg": "confounded-face.svg"
+  },
+  {
+    "name": "Confused Face",
+    "svg": "confused-face.svg"
+  },
+  {
+    "name": "Construction Worker",
+    "svg": "construction-worker.svg"
+  },
+  {
+    "name": "Construction",
+    "svg": "construction.svg"
+  },
+  {
+    "name": "Control Knobs",
+    "svg": "control-knobs.svg"
+  },
+  {
+    "name": "Convenience Store",
+    "svg": "convenience-store.svg"
+  },
+  {
+    "name": "Cook",
+    "svg": "cook.svg"
+  },
+  {
+    "name": "Cooked Rice",
+    "svg": "cooked-rice.svg"
+  },
+  {
+    "name": "Cookie",
+    "svg": "cookie.svg"
+  },
+  {
+    "name": "Cooking",
+    "svg": "cooking.svg"
+  },
+  {
+    "name": "Cool Button",
+    "svg": "cool-button.svg"
+  },
+  {
+    "name": "Copyright",
+    "svg": "copyright.svg"
+  },
+  {
+    "name": "Coral",
+    "svg": "coral.svg"
+  },
+  {
+    "name": "Couch And Lamp",
+    "svg": "couch-and-lamp.svg"
+  },
+  {
+    "name": "Counterclockwise Arrows Button",
+    "svg": "counterclockwise-arrows-button.svg"
+  },
+  {
+    "name": "Cow Face",
+    "svg": "cow-face.svg"
+  },
+  {
+    "name": "Cow",
+    "svg": "cow.svg"
+  },
+  {
+    "name": "Cowboy Hat Face",
+    "svg": "cowboy-hat-face.svg"
+  },
+  {
+    "name": "Crab",
+    "svg": "crab.svg"
+  },
+  {
+    "name": "Crayon",
+    "svg": "crayon.svg"
+  },
+  {
+    "name": "Credit Card",
+    "svg": "credit-card.svg"
+  },
+  {
+    "name": "Crescent Moon",
+    "svg": "crescent-moon.svg"
+  },
+  {
+    "name": "Cricket Game",
+    "svg": "cricket-game.svg"
+  },
+  {
+    "name": "Cricket",
+    "svg": "cricket.svg"
+  },
+  {
+    "name": "Crocodile",
+    "svg": "crocodile.svg"
+  },
+  {
+    "name": "Croissant",
+    "svg": "croissant.svg"
+  },
+  {
+    "name": "Cross Mark Button",
+    "svg": "cross-mark-button.svg"
+  },
+  {
+    "name": "Cross Mark",
+    "svg": "cross-mark.svg"
+  },
+  {
+    "name": "Crossed Fingers",
+    "svg": "crossed-fingers.svg"
+  },
+  {
+    "name": "Crossed Flags",
+    "svg": "crossed-flags.svg"
+  },
+  {
+    "name": "Crossed Swords",
+    "svg": "crossed-swords.svg"
+  },
+  {
+    "name": "Crown",
+    "svg": "crown.svg"
+  },
+  {
+    "name": "Crutch",
+    "svg": "crutch.svg"
+  },
+  {
+    "name": "Crying Cat",
+    "svg": "crying-cat.svg"
+  },
+  {
+    "name": "Crying Face",
+    "svg": "crying-face.svg"
+  },
+  {
+    "name": "Crystal Ball",
+    "svg": "crystal-ball.svg"
+  },
+  {
+    "name": "Cucumber",
+    "svg": "cucumber.svg"
+  },
+  {
+    "name": "Cup With Straw",
+    "svg": "cup-with-straw.svg"
+  },
+  {
+    "name": "Cupcake",
+    "svg": "cupcake.svg"
+  },
+  {
+    "name": "Curling Stone",
+    "svg": "curling-stone.svg"
+  },
+  {
+    "name": "Curly Loop",
+    "svg": "curly-loop.svg"
+  },
+  {
+    "name": "Currency Exchange",
+    "svg": "currency-exchange.svg"
+  },
+  {
+    "name": "Curry Rice",
+    "svg": "curry-rice.svg"
+  },
+  {
+    "name": "Custard",
+    "svg": "custard.svg"
+  },
+  {
+    "name": "Customs",
+    "svg": "customs.svg"
+  },
+  {
+    "name": "Cut of Meat",
+    "svg": "cut-of-meat.svg"
+  },
+  {
+    "name": "Cyclone",
+    "svg": "cyclone.svg"
+  },
+  {
+    "name": "Dagger",
+    "svg": "dagger.svg"
+  },
+  {
+    "name": "Dango",
+    "svg": "dango.svg"
+  },
+  {
+    "name": "Dashing Away",
+    "svg": "dashing-away.svg"
+  },
+  {
+    "name": "Deciduous Tree",
+    "svg": "deciduous-tree.svg"
+  },
+  {
+    "name": "Deer",
+    "svg": "deer.svg"
+  },
+  {
+    "name": "Delivery Truck",
+    "svg": "delivery-truck.svg"
+  },
+  {
+    "name": "Department Store",
+    "svg": "department-store.svg"
+  },
+  {
+    "name": "Derelict House",
+    "svg": "derelict-house.svg"
+  },
+  {
+    "name": "Desert Island",
+    "svg": "desert-island.svg"
+  },
+  {
+    "name": "Desert",
+    "svg": "desert.svg"
+  },
+  {
+    "name": "Desktop Computer",
+    "svg": "desktop-computer.svg"
+  },
+  {
+    "name": "Detective",
+    "svg": "detective.svg"
+  },
+  {
+    "name": "Diamond Suit",
+    "svg": "diamond-suit.svg"
+  },
+  {
+    "name": "Diamond With a Dot",
+    "svg": "diamond-with-a-dot.svg"
+  },
+  {
+    "name": "Dim Button",
+    "svg": "dim-button.svg"
+  },
+  {
+    "name": "Disappointed Face",
+    "svg": "disappointed-face.svg"
+  },
+  {
+    "name": "Disguised Face",
+    "svg": "disguised-face.svg"
+  },
+  {
+    "name": "Divide",
+    "svg": "divide.svg"
+  },
+  {
+    "name": "Diving Mask",
+    "svg": "diving-mask.svg"
+  },
+  {
+    "name": "Diya Lamp",
+    "svg": "diya-lamp.svg"
+  },
+  {
+    "name": "Dizzy",
+    "svg": "dizzy.svg"
+  },
+  {
+    "name": "Dna",
+    "svg": "dna.svg"
+  },
+  {
+    "name": "Dodo",
+    "svg": "dodo.svg"
+  },
+  {
+    "name": "Dog Face",
+    "svg": "dog-face.svg"
+  },
+  {
+    "name": "Dog",
+    "svg": "dog.svg"
+  },
+  {
+    "name": "Dollar Banknote",
+    "svg": "dollar-banknote.svg"
+  },
+  {
+    "name": "Dolphin",
+    "svg": "dolphin.svg"
+  },
+  {
+    "name": "Door",
+    "svg": "door.svg"
+  },
+  {
+    "name": "Dotted Line Face",
+    "svg": "dotted-line-face.svg"
+  },
+  {
+    "name": "Dotted Six Pointed Star",
+    "svg": "dotted-six-pointed-star.svg"
+  },
+  {
+    "name": "Double Curly Loop",
+    "svg": "double-curly-loop.svg"
+  },
+  {
+    "name": "Double Exclamation Mark",
+    "svg": "double-exclamation-mark.svg"
+  },
+  {
+    "name": "Doughnut",
+    "svg": "doughnut.svg"
+  },
+  {
+    "name": "Dove",
+    "svg": "dove.svg"
+  },
+  {
+    "name": "Down Arrow",
+    "svg": "down-arrow.svg"
+  },
+  {
+    "name": "Down Left Arrow",
+    "svg": "down-left-arrow.svg"
+  },
+  {
+    "name": "Down Right Arrow",
+    "svg": "down-right-arrow.svg"
+  },
+  {
+    "name": "Downcast Face With Sweat",
+    "svg": "downcast-face-with-sweat.svg"
+  },
+  {
+    "name": "Downwards Button",
+    "svg": "downwards-button.svg"
+  },
+  {
+    "name": "Dragon Face",
+    "svg": "dragon-face.svg"
+  },
+  {
+    "name": "Dragon",
+    "svg": "dragon.svg"
+  },
+  {
+    "name": "Dress",
+    "svg": "dress.svg"
+  },
+  {
+    "name": "Drooling Face",
+    "svg": "drooling-face.svg"
+  },
+  {
+    "name": "Drop of Blood",
+    "svg": "drop-of-blood.svg"
+  },
+  {
+    "name": "Droplet",
+    "svg": "droplet.svg"
+  },
+  {
+    "name": "Drum",
+    "svg": "drum.svg"
+  },
+  {
+    "name": "Duck",
+    "svg": "duck.svg"
+  },
+  {
+    "name": "Dumpling",
+    "svg": "dumpling.svg"
+  },
+  {
+    "name": "Dvd",
+    "svg": "dvd.svg"
+  },
+  {
+    "name": "E Mail",
+    "svg": "e-mail.svg"
+  },
+  {
+    "name": "Eagle",
+    "svg": "eagle.svg"
+  },
+  {
+    "name": "Ear of Corn",
+    "svg": "ear-of-corn.svg"
+  },
+  {
+    "name": "Ear With Hearing Aid",
+    "svg": "ear-with-hearing-aid.svg"
+  },
+  {
+    "name": "Ear",
+    "svg": "ear.svg"
+  },
+  {
+    "name": "Egg",
+    "svg": "egg.svg"
+  },
+  {
+    "name": "Eggplant",
+    "svg": "eggplant.svg"
+  },
+  {
+    "name": "Eight Oclock",
+    "svg": "eight-oclock.svg"
+  },
+  {
+    "name": "Eight Pointed Star",
+    "svg": "eight-pointed-star.svg"
+  },
+  {
+    "name": "Eight Spoked Asterisk",
+    "svg": "eight-spoked-asterisk.svg"
+  },
+  {
+    "name": "Eight Thirty",
+    "svg": "eight-thirty.svg"
+  },
+  {
+    "name": "Eject Button",
+    "svg": "eject-button.svg"
+  },
+  {
+    "name": "Electric Plug",
+    "svg": "electric-plug.svg"
+  },
+  {
+    "name": "Elephant",
+    "svg": "elephant.svg"
+  },
+  {
+    "name": "Elevator",
+    "svg": "elevator.svg"
+  },
+  {
+    "name": "Eleven Oclock",
+    "svg": "eleven-oclock.svg"
+  },
+  {
+    "name": "Eleven Thirty",
+    "svg": "eleven-thirty.svg"
+  },
+  {
+    "name": "Empty Nest",
+    "svg": "empty-nest.svg"
+  },
+  {
+    "name": "End Arrow",
+    "svg": "end-arrow.svg"
+  },
+  {
+    "name": "Envelope With Arrow",
+    "svg": "envelope-with-arrow.svg"
+  },
+  {
+    "name": "Envelope",
+    "svg": "envelope.svg"
+  },
+  {
+    "name": "Euro Banknote",
+    "svg": "euro-banknote.svg"
+  },
+  {
+    "name": "Evergreen Tree",
+    "svg": "evergreen-tree.svg"
+  },
+  {
+    "name": "Ewe",
+    "svg": "ewe.svg"
+  },
+  {
+    "name": "Exclamation Question Mark",
+    "svg": "exclamation-question-mark.svg"
+  },
+  {
+    "name": "Exploding Head",
+    "svg": "exploding-head.svg"
+  },
+  {
+    "name": "Expressionless Face",
+    "svg": "expressionless-face.svg"
+  },
+  {
+    "name": "Eye in Speech Bubble",
+    "svg": "eye-in-speech-bubble.svg"
+  },
+  {
+    "name": "Eye",
+    "svg": "eye.svg"
+  },
+  {
+    "name": "Eyes",
+    "svg": "eyes.svg"
+  },
+  {
+    "name": "Face Blowing a Kiss",
+    "svg": "face-blowing-a-kiss.svg"
+  },
+  {
+    "name": "Face Exhaling",
+    "svg": "face-exhaling.svg"
+  },
+  {
+    "name": "Face Holding Back Tears",
+    "svg": "face-holding-back-tears.svg"
+  },
+  {
+    "name": "Face in Clouds",
+    "svg": "face-in-clouds.svg"
+  },
+  {
+    "name": "Face Savoring Food",
+    "svg": "face-savoring-food.svg"
+  },
+  {
+    "name": "Face Screaming in Fear",
+    "svg": "face-screaming-in-fear.svg"
+  },
+  {
+    "name": "Face Vomiting",
+    "svg": "face-vomiting.svg"
+  },
+  {
+    "name": "Face With Diagonal Mouth",
+    "svg": "face-with-diagonal-mouth.svg"
+  },
+  {
+    "name": "Face With Hand Over Mouth",
+    "svg": "face-with-hand-over-mouth.svg"
+  },
+  {
+    "name": "Face With Head Bandage",
+    "svg": "face-with-head-bandage.svg"
+  },
+  {
+    "name": "Face With Medical Mask",
+    "svg": "face-with-medical-mask.svg"
+  },
+  {
+    "name": "Face With Monocle",
+    "svg": "face-with-monocle.svg"
+  },
+  {
+    "name": "Face With Open Eyes And Hand Over Mouth",
+    "svg": "face-with-open-eyes-and-hand-over-mouth.svg"
+  },
+  {
+    "name": "Face With Open Mouth",
+    "svg": "face-with-open-mouth.svg"
+  },
+  {
+    "name": "Face With Peeking Eye",
+    "svg": "face-with-peeking-eye.svg"
+  },
+  {
+    "name": "Face With Raised Eyebrow",
+    "svg": "face-with-raised-eyebrow.svg"
+  },
+  {
+    "name": "Face With Rolling Eyes",
+    "svg": "face-with-rolling-eyes.svg"
+  },
+  {
+    "name": "Face With Spiral Eyes",
+    "svg": "face-with-spiral-eyes.svg"
+  },
+  {
+    "name": "Face With Steam From Nose",
+    "svg": "face-with-steam-from-nose.svg"
+  },
+  {
+    "name": "Face With Symbols on Mouth",
+    "svg": "face-with-symbols-on-mouth.svg"
+  },
+  {
+    "name": "Face With Tears of Joy",
+    "svg": "face-with-tears-of-joy.svg"
+  },
+  {
+    "name": "Face With Thermometer",
+    "svg": "face-with-thermometer.svg"
+  },
+  {
+    "name": "Face With Tongue",
+    "svg": "face-with-tongue.svg"
+  },
+  {
+    "name": "Face Without Mouth",
+    "svg": "face-without-mouth.svg"
+  },
+  {
+    "name": "Factory Worker",
+    "svg": "factory-worker.svg"
+  },
+  {
+    "name": "Factory",
+    "svg": "factory.svg"
+  },
+  {
+    "name": "Falafel",
+    "svg": "falafel.svg"
+  },
+  {
+    "name": "Fallen Leaf",
+    "svg": "fallen-leaf.svg"
+  },
+  {
+    "name": "Farmer",
+    "svg": "farmer.svg"
+  },
+  {
+    "name": "Fast Down Button",
+    "svg": "fast-down-button.svg"
+  },
+  {
+    "name": "Fast Forward Button",
+    "svg": "fast-forward-button.svg"
+  },
+  {
+    "name": "Fast Reverse Button",
+    "svg": "fast-reverse-button.svg"
+  },
+  {
+    "name": "Fast up Button",
+    "svg": "fast-up-button.svg"
+  },
+  {
+    "name": "Fax Machine",
+    "svg": "fax-machine.svg"
+  },
+  {
+    "name": "Fearful Face",
+    "svg": "fearful-face.svg"
+  },
+  {
+    "name": "Feather",
+    "svg": "feather.svg"
+  },
+  {
+    "name": "Female Sign",
+    "svg": "female-sign.svg"
+  },
+  {
+    "name": "Ferris Wheel",
+    "svg": "ferris-wheel.svg"
+  },
+  {
+    "name": "Ferry",
+    "svg": "ferry.svg"
+  },
+  {
+    "name": "Field Hockey",
+    "svg": "field-hockey.svg"
+  },
+  {
+    "name": "File Cabinet",
+    "svg": "file-cabinet.svg"
+  },
+  {
+    "name": "File Folder",
+    "svg": "file-folder.svg"
+  },
+  {
+    "name": "Film Frames",
+    "svg": "film-frames.svg"
+  },
+  {
+    "name": "Film Projector",
+    "svg": "film-projector.svg"
+  },
+  {
+    "name": "Fire Engine",
+    "svg": "fire-engine.svg"
+  },
+  {
+    "name": "Fire Extinguisher",
+    "svg": "fire-extinguisher.svg"
+  },
+  {
+    "name": "Fire",
+    "svg": "fire.svg"
+  },
+  {
+    "name": "Firecracker",
+    "svg": "firecracker.svg"
+  },
+  {
+    "name": "Firefighter",
+    "svg": "firefighter.svg"
+  },
+  {
+    "name": "Fireworks",
+    "svg": "fireworks.svg"
+  },
+  {
+    "name": "First Quarter Moon Face",
+    "svg": "first-quarter-moon-face.svg"
+  },
+  {
+    "name": "First Quarter Moon",
+    "svg": "first-quarter-moon.svg"
+  },
+  {
+    "name": "Fish Cake With Swirl",
+    "svg": "fish-cake-with-swirl.svg"
+  },
+  {
+    "name": "Fish",
+    "svg": "fish.svg"
+  },
+  {
+    "name": "Fishing Pole",
+    "svg": "fishing-pole.svg"
+  },
+  {
+    "name": "Five Oclock",
+    "svg": "five-oclock.svg"
+  },
+  {
+    "name": "Five Thirty",
+    "svg": "five-thirty.svg"
+  },
+  {
+    "name": "Flag in Hole",
+    "svg": "flag-in-hole.svg"
+  },
+  {
+    "name": "Flamingo",
+    "svg": "flamingo.svg"
+  },
+  {
+    "name": "Flashlight",
+    "svg": "flashlight.svg"
+  },
+  {
+    "name": "Fleur de Lis",
+    "svg": "fleur-de-lis.svg"
+  },
+  {
+    "name": "Flexed Biceps",
+    "svg": "flexed-biceps.svg"
+  },
+  {
+    "name": "Floppy Disk",
+    "svg": "floppy-disk.svg"
+  },
+  {
+    "name": "Flower Playing Cards",
+    "svg": "flower-playing-cards.svg"
+  },
+  {
+    "name": "Flushed Face",
+    "svg": "flushed-face.svg"
+  },
+  {
+    "name": "Fly",
+    "svg": "fly.svg"
+  },
+  {
+    "name": "Flying Disc",
+    "svg": "flying-disc.svg"
+  },
+  {
+    "name": "Flying Saucer",
+    "svg": "flying-saucer.svg"
+  },
+  {
+    "name": "Fog",
+    "svg": "fog.svg"
+  },
+  {
+    "name": "Foggy",
+    "svg": "foggy.svg"
+  },
+  {
+    "name": "Folded Hands",
+    "svg": "folded-hands.svg"
+  },
+  {
+    "name": "Fondue",
+    "svg": "fondue.svg"
+  },
+  {
+    "name": "Foot",
+    "svg": "foot.svg"
+  },
+  {
+    "name": "Footprints",
+    "svg": "footprints.svg"
+  },
+  {
+    "name": "Fork And Knife With Plate",
+    "svg": "fork-and-knife-with-plate.svg"
+  },
+  {
+    "name": "Fork And Knife",
+    "svg": "fork-and-knife.svg"
+  },
+  {
+    "name": "Fortune Cookie",
+    "svg": "fortune-cookie.svg"
+  },
+  {
+    "name": "Fountain Pen",
+    "svg": "fountain-pen.svg"
+  },
+  {
+    "name": "Fountain",
+    "svg": "fountain.svg"
+  },
+  {
+    "name": "Four Leaf Clover",
+    "svg": "four-leaf-clover.svg"
+  },
+  {
+    "name": "Four Oclock",
+    "svg": "four-oclock.svg"
+  },
+  {
+    "name": "Four Thirty",
+    "svg": "four-thirty.svg"
+  },
+  {
+    "name": "Fox",
+    "svg": "fox.svg"
+  },
+  {
+    "name": "Framed Picture",
+    "svg": "framed-picture.svg"
+  },
+  {
+    "name": "Free Button",
+    "svg": "free-button.svg"
+  },
+  {
+    "name": "French Fries",
+    "svg": "french-fries.svg"
+  },
+  {
+    "name": "Fried Shrimp",
+    "svg": "fried-shrimp.svg"
+  },
+  {
+    "name": "Frog",
+    "svg": "frog.svg"
+  },
+  {
+    "name": "Front Facing Baby Chick",
+    "svg": "front-facing-baby-chick.svg"
+  },
+  {
+    "name": "Frowning Face With Open Mouth",
+    "svg": "frowning-face-with-open-mouth.svg"
+  },
+  {
+    "name": "Frowning Face",
+    "svg": "frowning-face.svg"
+  },
+  {
+    "name": "Fuel Pump",
+    "svg": "fuel-pump.svg"
+  },
+  {
+    "name": "Full Moon Face",
+    "svg": "full-moon-face.svg"
+  },
+  {
+    "name": "Full Moon",
+    "svg": "full-moon.svg"
+  },
+  {
+    "name": "Funeral Urn",
+    "svg": "funeral-urn.svg"
+  },
+  {
+    "name": "Game Die",
+    "svg": "game-die.svg"
+  },
+  {
+    "name": "Garlic",
+    "svg": "garlic.svg"
+  },
+  {
+    "name": "Gear",
+    "svg": "gear.svg"
+  },
+  {
+    "name": "Gem Stone",
+    "svg": "gem-stone.svg"
+  },
+  {
+    "name": "Gemini",
+    "svg": "gemini.svg"
+  },
+  {
+    "name": "Ghost",
+    "svg": "ghost.svg"
+  },
+  {
+    "name": "Giraffe",
+    "svg": "giraffe.svg"
+  },
+  {
+    "name": "Girl",
+    "svg": "girl.svg"
+  },
+  {
+    "name": "Glass of Milk",
+    "svg": "glass-of-milk.svg"
+  },
+  {
+    "name": "Glasses",
+    "svg": "glasses.svg"
+  },
+  {
+    "name": "Globe Showing Americas",
+    "svg": "globe-showing-americas.svg"
+  },
+  {
+    "name": "Globe Showing Asia Australia",
+    "svg": "globe-showing-asia-australia.svg"
+  },
+  {
+    "name": "Globe Showing Europe Africa",
+    "svg": "globe-showing-europe-africa.svg"
+  },
+  {
+    "name": "Globe With Meridians",
+    "svg": "globe-with-meridians.svg"
+  },
+  {
+    "name": "Gloves",
+    "svg": "gloves.svg"
+  },
+  {
+    "name": "Glowing Star",
+    "svg": "glowing-star.svg"
+  },
+  {
+    "name": "Goal Net",
+    "svg": "goal-net.svg"
+  },
+  {
+    "name": "Goat",
+    "svg": "goat.svg"
+  },
+  {
+    "name": "Goblin",
+    "svg": "goblin.svg"
+  },
+  {
+    "name": "Goggles",
+    "svg": "goggles.svg"
+  },
+  {
+    "name": "Gorilla",
+    "svg": "gorilla.svg"
+  },
+  {
+    "name": "Graduation Cap",
+    "svg": "graduation-cap.svg"
+  },
+  {
+    "name": "Grapes",
+    "svg": "grapes.svg"
+  },
+  {
+    "name": "Green Apple",
+    "svg": "green-apple.svg"
+  },
+  {
+    "name": "Green Book",
+    "svg": "green-book.svg"
+  },
+  {
+    "name": "Green Circle",
+    "svg": "green-circle.svg"
+  },
+  {
+    "name": "Green Heart",
+    "svg": "green-heart.svg"
+  },
+  {
+    "name": "Green Salad",
+    "svg": "green-salad.svg"
+  },
+  {
+    "name": "Green Square",
+    "svg": "green-square.svg"
+  },
+  {
+    "name": "Grimacing Face",
+    "svg": "grimacing-face.svg"
+  },
+  {
+    "name": "Grinning Cat With Smiling Eyes",
+    "svg": "grinning-cat-with-smiling-eyes.svg"
+  },
+  {
+    "name": "Grinning Cat",
+    "svg": "grinning-cat.svg"
+  },
+  {
+    "name": "Grinning Face With Big Eyes",
+    "svg": "grinning-face-with-big-eyes.svg"
+  },
+  {
+    "name": "Grinning Face With Smiling Eyes",
+    "svg": "grinning-face-with-smiling-eyes.svg"
+  },
+  {
+    "name": "Grinning Face With Sweat",
+    "svg": "grinning-face-with-sweat.svg"
+  },
+  {
+    "name": "Grinning Face",
+    "svg": "grinning-face.svg"
+  },
+  {
+    "name": "Grinning Squinting Face",
+    "svg": "grinning-squinting-face.svg"
+  },
+  {
+    "name": "Growing Heart",
+    "svg": "growing-heart.svg"
+  },
+  {
+    "name": "Guard",
+    "svg": "guard.svg"
+  },
+  {
+    "name": "Guide Dog",
+    "svg": "guide-dog.svg"
+  },
+  {
+    "name": "Guitar",
+    "svg": "guitar.svg"
+  },
+  {
+    "name": "Hamburger",
+    "svg": "hamburger.svg"
+  },
+  {
+    "name": "Hammer And Pick",
+    "svg": "hammer-and-pick.svg"
+  },
+  {
+    "name": "Hammer And Wrench",
+    "svg": "hammer-and-wrench.svg"
+  },
+  {
+    "name": "Hammer",
+    "svg": "hammer.svg"
+  },
+  {
+    "name": "Hamsa",
+    "svg": "hamsa.svg"
+  },
+  {
+    "name": "Hamster",
+    "svg": "hamster.svg"
+  },
+  {
+    "name": "Hand With Fingers Splayed",
+    "svg": "hand-with-fingers-splayed.svg"
+  },
+  {
+    "name": "Hand With Index Finger And Thumb Crossed",
+    "svg": "hand-with-index-finger-and-thumb-crossed.svg"
+  },
+  {
+    "name": "Handbag",
+    "svg": "handbag.svg"
+  },
+  {
+    "name": "Handshake",
+    "svg": "handshake.svg"
+  },
+  {
+    "name": "Hatching Chick",
+    "svg": "hatching-chick.svg"
+  },
+  {
+    "name": "Headphone",
+    "svg": "headphone.svg"
+  },
+  {
+    "name": "Headstone",
+    "svg": "headstone.svg"
+  },
+  {
+    "name": "Health Worker",
+    "svg": "health-worker.svg"
+  },
+  {
+    "name": "Hear no Evil Monkey",
+    "svg": "hear-no-evil-monkey.svg"
+  },
+  {
+    "name": "Heart Decoration",
+    "svg": "heart-decoration.svg"
+  },
+  {
+    "name": "Heart Exclamation",
+    "svg": "heart-exclamation.svg"
+  },
+  {
+    "name": "Heart Hands",
+    "svg": "heart-hands.svg"
+  },
+  {
+    "name": "Heart on Fire",
+    "svg": "heart-on-fire.svg"
+  },
+  {
+    "name": "Heart Suit",
+    "svg": "heart-suit.svg"
+  },
+  {
+    "name": "Heart With Arrow",
+    "svg": "heart-with-arrow.svg"
+  },
+  {
+    "name": "Heart With Ribbon",
+    "svg": "heart-with-ribbon.svg"
+  },
+  {
+    "name": "Heavy Dollar Sign",
+    "svg": "heavy-dollar-sign.svg"
+  },
+  {
+    "name": "Heavy Equals Sign",
+    "svg": "heavy-equals-sign.svg"
+  },
+  {
+    "name": "Hedgehog",
+    "svg": "hedgehog.svg"
+  },
+  {
+    "name": "Helicopter",
+    "svg": "helicopter.svg"
+  },
+  {
+    "name": "Herb",
+    "svg": "herb.svg"
+  },
+  {
+    "name": "Hibiscus",
+    "svg": "hibiscus.svg"
+  },
+  {
+    "name": "High Heeled Shoe",
+    "svg": "high-heeled-shoe.svg"
+  },
+  {
+    "name": "High Speed Train",
+    "svg": "high-speed-train.svg"
+  },
+  {
+    "name": "High Voltage",
+    "svg": "high-voltage.svg"
+  },
+  {
+    "name": "Hiking Boot",
+    "svg": "hiking-boot.svg"
+  },
+  {
+    "name": "Hindu Temple",
+    "svg": "hindu-temple.svg"
+  },
+  {
+    "name": "Hippopotamus",
+    "svg": "hippopotamus.svg"
+  },
+  {
+    "name": "Hole",
+    "svg": "hole.svg"
+  },
+  {
+    "name": "Hollow Red Circle",
+    "svg": "hollow-red-circle.svg"
+  },
+  {
+    "name": "Honey Pot",
+    "svg": "honey-pot.svg"
+  },
+  {
+    "name": "Honeybee",
+    "svg": "honeybee.svg"
+  },
+  {
+    "name": "Hook",
+    "svg": "hook.svg"
+  },
+  {
+    "name": "Horizontal Traffic Light",
+    "svg": "horizontal-traffic-light.svg"
+  },
+  {
+    "name": "Horse Face",
+    "svg": "horse-face.svg"
+  },
+  {
+    "name": "Horse Racing",
+    "svg": "horse-racing.svg"
+  },
+  {
+    "name": "Horse",
+    "svg": "horse.svg"
+  },
+  {
+    "name": "Hospital",
+    "svg": "hospital.svg"
+  },
+  {
+    "name": "Hot Beverage",
+    "svg": "hot-beverage.svg"
+  },
+  {
+    "name": "Hot Dog",
+    "svg": "hot-dog.svg"
+  },
+  {
+    "name": "Hot Face",
+    "svg": "hot-face.svg"
+  },
+  {
+    "name": "Hot Pepper",
+    "svg": "hot-pepper.svg"
+  },
+  {
+    "name": "Hot Springs",
+    "svg": "hot-springs.svg"
+  },
+  {
+    "name": "Hotel",
+    "svg": "hotel.svg"
+  },
+  {
+    "name": "Hourglass Done",
+    "svg": "hourglass-done.svg"
+  },
+  {
+    "name": "Hourglass Not Done",
+    "svg": "hourglass-not-done.svg"
+  },
+  {
+    "name": "House With Garden",
+    "svg": "house-with-garden.svg"
+  },
+  {
+    "name": "House",
+    "svg": "house.svg"
+  },
+  {
+    "name": "Houses",
+    "svg": "houses.svg"
+  },
+  {
+    "name": "Hugging Face",
+    "svg": "hugging-face.svg"
+  },
+  {
+    "name": "Hundred Points",
+    "svg": "hundred-points.svg"
+  },
+  {
+    "name": "Hushed Face",
+    "svg": "hushed-face.svg"
+  },
+  {
+    "name": "Hut",
+    "svg": "hut.svg"
+  },
+  {
+    "name": "Ice Cream",
+    "svg": "ice-cream.svg"
+  },
+  {
+    "name": "Ice Hockey",
+    "svg": "ice-hockey.svg"
+  },
+  {
+    "name": "Ice Skate",
+    "svg": "ice-skate.svg"
+  },
+  {
+    "name": "Ice",
+    "svg": "ice.svg"
+  },
+  {
+    "name": "Id Button",
+    "svg": "id-button.svg"
+  },
+  {
+    "name": "Identification Card",
+    "svg": "identification-card.svg"
+  },
+  {
+    "name": "Inbox Tray",
+    "svg": "inbox-tray.svg"
+  },
+  {
+    "name": "Incoming Envelope",
+    "svg": "incoming-envelope.svg"
+  },
+  {
+    "name": "Index Pointing at The Viewer",
+    "svg": "index-pointing-at-the-viewer.svg"
+  },
+  {
+    "name": "Index Pointing up",
+    "svg": "index-pointing-up.svg"
+  },
+  {
+    "name": "Infinity",
+    "svg": "infinity.svg"
+  },
+  {
+    "name": "Information",
+    "svg": "information.svg"
+  },
+  {
+    "name": "Input Latin Letters",
+    "svg": "input-latin-letters.svg"
+  },
+  {
+    "name": "Input Latin Lowercase",
+    "svg": "input-latin-lowercase.svg"
+  },
+  {
+    "name": "Input Latin Uppercase",
+    "svg": "input-latin-uppercase.svg"
+  },
+  {
+    "name": "Input Numbers",
+    "svg": "input-numbers.svg"
+  },
+  {
+    "name": "Input Symbols",
+    "svg": "input-symbols.svg"
+  },
+  {
+    "name": "Jack o Lantern",
+    "svg": "jack-o-lantern.svg"
+  },
+  {
+    "name": "Japanese Acceptable Button",
+    "svg": "japanese-acceptable-button.svg"
+  },
+  {
+    "name": "Japanese Application Button",
+    "svg": "japanese-application-button.svg"
+  },
+  {
+    "name": "Japanese Bargain Button",
+    "svg": "japanese-bargain-button.svg"
+  },
+  {
+    "name": "Japanese Castle",
+    "svg": "japanese-castle.svg"
+  },
+  {
+    "name": "Japanese Congratulations Button",
+    "svg": "japanese-congratulations-button.svg"
+  },
+  {
+    "name": "Japanese Discount Button",
+    "svg": "japanese-discount-button.svg"
+  },
+  {
+    "name": "Japanese Dolls",
+    "svg": "japanese-dolls.svg"
+  },
+  {
+    "name": "Japanese Free of Charge Button",
+    "svg": "japanese-free-of-charge-button.svg"
+  },
+  {
+    "name": "Japanese Hear Button",
+    "svg": "japanese-hear-button.svg"
+  },
+  {
+    "name": "Japanese Monthly Amount Button",
+    "svg": "japanese-monthly-amount-button.svg"
+  },
+  {
+    "name": "Japanese no Vacancy Button",
+    "svg": "japanese-no-vacancy-button.svg"
+  },
+  {
+    "name": "Japanese Not Free of Charge Button",
+    "svg": "japanese-not-free-of-charge-button.svg"
+  },
+  {
+    "name": "Japanese Open For Business Button",
+    "svg": "japanese-open-for-business-button.svg"
+  },
+  {
+    "name": "Japanese Passing Grade Button",
+    "svg": "japanese-passing-grade-button.svg"
+  },
+  {
+    "name": "Japanese Post Office",
+    "svg": "japanese-post-office.svg"
+  },
+  {
+    "name": "Japanese Prohibited Button",
+    "svg": "japanese-prohibited-button.svg"
+  },
+  {
+    "name": "Japanese Reserved Button",
+    "svg": "japanese-reserved-button.svg"
+  },
+  {
+    "name": "Japanese Secret Button",
+    "svg": "japanese-secret-button.svg"
+  },
+  {
+    "name": "Japanese Service Charge Button",
+    "svg": "japanese-service-charge-button.svg"
+  },
+  {
+    "name": "Japanese Symbol For Beginner",
+    "svg": "japanese-symbol-for-beginner.svg"
+  },
+  {
+    "name": "Japanese Vacancy Button",
+    "svg": "japanese-vacancy-button.svg"
+  },
+  {
+    "name": "Jar",
+    "svg": "jar.svg"
+  },
+  {
+    "name": "Jeans",
+    "svg": "jeans.svg"
+  },
+  {
+    "name": "Joker",
+    "svg": "joker.svg"
+  },
+  {
+    "name": "Joystick",
+    "svg": "joystick.svg"
+  },
+  {
+    "name": "Judge",
+    "svg": "judge.svg"
+  },
+  {
+    "name": "Kaaba",
+    "svg": "kaaba.svg"
+  },
+  {
+    "name": "Kangaroo",
+    "svg": "kangaroo.svg"
+  },
+  {
+    "name": "Key",
+    "svg": "key.svg"
+  },
+  {
+    "name": "Keyboard",
+    "svg": "keyboard.svg"
+  },
+  {
+    "name": "Keycap 0",
+    "svg": "keycap-0.svg"
+  },
+  {
+    "name": "Keycap 1",
+    "svg": "keycap-1.svg"
+  },
+  {
+    "name": "Keycap 10",
+    "svg": "keycap-10.svg"
+  },
+  {
+    "name": "Keycap 2",
+    "svg": "keycap-2.svg"
+  },
+  {
+    "name": "Keycap 3",
+    "svg": "keycap-3.svg"
+  },
+  {
+    "name": "Keycap 4",
+    "svg": "keycap-4.svg"
+  },
+  {
+    "name": "Keycap 5",
+    "svg": "keycap-5.svg"
+  },
+  {
+    "name": "Keycap 6",
+    "svg": "keycap-6.svg"
+  },
+  {
+    "name": "Keycap 7",
+    "svg": "keycap-7.svg"
+  },
+  {
+    "name": "Keycap 8",
+    "svg": "keycap-8.svg"
+  },
+  {
+    "name": "Keycap 9",
+    "svg": "keycap-9.svg"
+  },
+  {
+    "name": "Keycap Asterisk",
+    "svg": "keycap-asterisk.svg"
+  },
+  {
+    "name": "Keycap Hashtag",
+    "svg": "keycap-hashtag.svg"
+  },
+  {
+    "name": "Kick Scooter",
+    "svg": "kick-scooter.svg"
+  },
+  {
+    "name": "Kimono",
+    "svg": "kimono.svg"
+  },
+  {
+    "name": "Kiss Mark",
+    "svg": "kiss-mark.svg"
+  },
+  {
+    "name": "Kissing Cat",
+    "svg": "kissing-cat.svg"
+  },
+  {
+    "name": "Kissing Face With Closed Eyes",
+    "svg": "kissing-face-with-closed-eyes.svg"
+  },
+  {
+    "name": "Kissing Face With Smiling Eyes",
+    "svg": "kissing-face-with-smiling-eyes.svg"
+  },
+  {
+    "name": "Kissing Face",
+    "svg": "kissing-face.svg"
+  },
+  {
+    "name": "Kitchen Knife",
+    "svg": "kitchen-knife.svg"
+  },
+  {
+    "name": "Kite",
+    "svg": "kite.svg"
+  },
+  {
+    "name": "Kiwi Fruit",
+    "svg": "kiwi-fruit.svg"
+  },
+  {
+    "name": "Knocked Out Face",
+    "svg": "knocked-out-face.svg"
+  },
+  {
+    "name": "Knot",
+    "svg": "knot.svg"
+  },
+  {
+    "name": "Koala",
+    "svg": "koala.svg"
+  },
+  {
+    "name": "Lab Coat",
+    "svg": "lab-coat.svg"
+  },
+  {
+    "name": "Label",
+    "svg": "label.svg"
+  },
+  {
+    "name": "Lacrosse",
+    "svg": "lacrosse.svg"
+  },
+  {
+    "name": "Ladder",
+    "svg": "ladder.svg"
+  },
+  {
+    "name": "Lady Beetle",
+    "svg": "lady-beetle.svg"
+  },
+  {
+    "name": "Laptop",
+    "svg": "laptop.svg"
+  },
+  {
+    "name": "Large Blue Diamond",
+    "svg": "large-blue-diamond.svg"
+  },
+  {
+    "name": "Large Orange Diamond",
+    "svg": "large-orange-diamond.svg"
+  },
+  {
+    "name": "Last Quarter Moon Face",
+    "svg": "last-quarter-moon-face.svg"
+  },
+  {
+    "name": "Last Quarter Moon",
+    "svg": "last-quarter-moon.svg"
+  },
+  {
+    "name": "Last Track Button",
+    "svg": "last-track-button.svg"
+  },
+  {
+    "name": "Latin Cross",
+    "svg": "latin-cross.svg"
+  },
+  {
+    "name": "Leaf Fluttering in Wind",
+    "svg": "leaf-fluttering-in-wind.svg"
+  },
+  {
+    "name": "Leafy Green",
+    "svg": "leafy-green.svg"
+  },
+  {
+    "name": "Ledger",
+    "svg": "ledger.svg"
+  },
+  {
+    "name": "Left Arrow Curving Right",
+    "svg": "left-arrow-curving-right.svg"
+  },
+  {
+    "name": "Left Arrow",
+    "svg": "left-arrow.svg"
+  },
+  {
+    "name": "Left Facing Fist",
+    "svg": "left-facing-fist.svg"
+  },
+  {
+    "name": "Left Luggage",
+    "svg": "left-luggage.svg"
+  },
+  {
+    "name": "Left Right Arrow",
+    "svg": "left-right-arrow.svg"
+  },
+  {
+    "name": "Left Speech Bubble",
+    "svg": "left-speech-bubble.svg"
+  },
+  {
+    "name": "Leftwards Hand",
+    "svg": "leftwards-hand.svg"
+  },
+  {
+    "name": "Leg",
+    "svg": "leg.svg"
+  },
+  {
+    "name": "Lemon",
+    "svg": "lemon.svg"
+  },
+  {
+    "name": "Leo",
+    "svg": "leo.svg"
+  },
+  {
+    "name": "Leopard",
+    "svg": "leopard.svg"
+  },
+  {
+    "name": "Level Slider",
+    "svg": "level-slider.svg"
+  },
+  {
+    "name": "Libra",
+    "svg": "libra.svg"
+  },
+  {
+    "name": "Light Bulb",
+    "svg": "light-bulb.svg"
+  },
+  {
+    "name": "Light Rail",
+    "svg": "light-rail.svg"
+  },
+  {
+    "name": "Link",
+    "svg": "link.svg"
+  },
+  {
+    "name": "Linked Paperclips",
+    "svg": "linked-paperclips.svg"
+  },
+  {
+    "name": "Lion",
+    "svg": "lion.svg"
+  },
+  {
+    "name": "Lipstick",
+    "svg": "lipstick.svg"
+  },
+  {
+    "name": "Litter in Bin Sign",
+    "svg": "litter-in-bin-sign.svg"
+  },
+  {
+    "name": "Lizard",
+    "svg": "lizard.svg"
+  },
+  {
+    "name": "Llama",
+    "svg": "llama.svg"
+  },
+  {
+    "name": "Lobster",
+    "svg": "lobster.svg"
+  },
+  {
+    "name": "Locked With Key",
+    "svg": "locked-with-key.svg"
+  },
+  {
+    "name": "Locked With Pen",
+    "svg": "locked-with-pen.svg"
+  },
+  {
+    "name": "Locked",
+    "svg": "locked.svg"
+  },
+  {
+    "name": "Locomotive",
+    "svg": "locomotive.svg"
+  },
+  {
+    "name": "Lollipop",
+    "svg": "lollipop.svg"
+  },
+  {
+    "name": "Long Drum",
+    "svg": "long-drum.svg"
+  },
+  {
+    "name": "Lotion Bottle",
+    "svg": "lotion-bottle.svg"
+  },
+  {
+    "name": "Lotus",
+    "svg": "lotus.svg"
+  },
+  {
+    "name": "Loudly Crying Face",
+    "svg": "loudly-crying-face.svg"
+  },
+  {
+    "name": "Loudspeaker",
+    "svg": "loudspeaker.svg"
+  },
+  {
+    "name": "Love Hotel",
+    "svg": "love-hotel.svg"
+  },
+  {
+    "name": "Love Letter",
+    "svg": "love-letter.svg"
+  },
+  {
+    "name": "Love You Gesture",
+    "svg": "love-you-gesture.svg"
+  },
+  {
+    "name": "Low Battery",
+    "svg": "low-battery.svg"
+  },
+  {
+    "name": "Luggage",
+    "svg": "luggage.svg"
+  },
+  {
+    "name": "Lungs",
+    "svg": "lungs.svg"
+  },
+  {
+    "name": "Lying Face",
+    "svg": "lying-face.svg"
+  },
+  {
+    "name": "Magic Wand",
+    "svg": "magic-wand.svg"
+  },
+  {
+    "name": "Magnet",
+    "svg": "magnet.svg"
+  },
+  {
+    "name": "Magnifying Glass Tilted Left",
+    "svg": "magnifying-glass-tilted-left.svg"
+  },
+  {
+    "name": "Magnifying Glass Tilted Right",
+    "svg": "magnifying-glass-tilted-right.svg"
+  },
+  {
+    "name": "Mahjong Red Dragon",
+    "svg": "mahjong-red-dragon.svg"
+  },
+  {
+    "name": "Male Sign",
+    "svg": "male-sign.svg"
+  },
+  {
+    "name": "Mammoth",
+    "svg": "mammoth.svg"
+  },
+  {
+    "name": "Man Artist",
+    "svg": "man-artist.svg"
+  },
+  {
+    "name": "Man Astronaut",
+    "svg": "man-astronaut.svg"
+  },
+  {
+    "name": "Man Bald",
+    "svg": "man-bald.svg"
+  },
+  {
+    "name": "Man Beard",
+    "svg": "man-beard.svg"
+  },
+  {
+    "name": "Man Biking",
+    "svg": "man-biking.svg"
+  },
+  {
+    "name": "Man Blonde Hair",
+    "svg": "man-blonde-hair.svg"
+  },
+  {
+    "name": "Man Bouncing Ball",
+    "svg": "man-bouncing-ball.svg"
+  },
+  {
+    "name": "Man Bowing",
+    "svg": "man-bowing.svg"
+  },
+  {
+    "name": "Man Cartwheeling",
+    "svg": "man-cartwheeling.svg"
+  },
+  {
+    "name": "Man Climbing",
+    "svg": "man-climbing.svg"
+  },
+  {
+    "name": "Man Construction Worker",
+    "svg": "man-construction-worker.svg"
+  },
+  {
+    "name": "Man Cook",
+    "svg": "man-cook.svg"
+  },
+  {
+    "name": "Man Curly Hair",
+    "svg": "man-curly-hair.svg"
+  },
+  {
+    "name": "Man Dancing",
+    "svg": "man-dancing.svg"
+  },
+  {
+    "name": "Man Deaf",
+    "svg": "man-deaf.svg"
+  },
+  {
+    "name": "Man Detective",
+    "svg": "man-detective.svg"
+  },
+  {
+    "name": "Man Elf",
+    "svg": "man-elf.svg"
+  },
+  {
+    "name": "Man Facepalming",
+    "svg": "man-facepalming.svg"
+  },
+  {
+    "name": "Man Factory Worker",
+    "svg": "man-factory-worker.svg"
+  },
+  {
+    "name": "Man Fairy",
+    "svg": "man-fairy.svg"
+  },
+  {
+    "name": "Man Farmer",
+    "svg": "man-farmer.svg"
+  },
+  {
+    "name": "Man Feeding Baby",
+    "svg": "man-feeding-baby.svg"
+  },
+  {
+    "name": "Man Firefighter",
+    "svg": "man-firefighter.svg"
+  },
+  {
+    "name": "Man Frowning",
+    "svg": "man-frowning.svg"
+  },
+  {
+    "name": "Man Genie",
+    "svg": "man-genie.svg"
+  },
+  {
+    "name": "Man Gesturing no",
+    "svg": "man-gesturing-no.svg"
+  },
+  {
+    "name": "Man Gesturing ok",
+    "svg": "man-gesturing-ok.svg"
+  },
+  {
+    "name": "Man Getting Haircut",
+    "svg": "man-getting-haircut.svg"
+  },
+  {
+    "name": "Man Getting Massage",
+    "svg": "man-getting-massage.svg"
+  },
+  {
+    "name": "Man Golfing",
+    "svg": "man-golfing.svg"
+  },
+  {
+    "name": "Man Guard",
+    "svg": "man-guard.svg"
+  },
+  {
+    "name": "Man Health Worker",
+    "svg": "man-health-worker.svg"
+  },
+  {
+    "name": "Man in Lotus Position",
+    "svg": "man-in-lotus-position.svg"
+  },
+  {
+    "name": "Man in Manual Wheelchair",
+    "svg": "man-in-manual-wheelchair.svg"
+  },
+  {
+    "name": "Man in Motorized Wheelchair",
+    "svg": "man-in-motorized-wheelchair.svg"
+  },
+  {
+    "name": "Man in Steamy Room",
+    "svg": "man-in-steamy-room.svg"
+  },
+  {
+    "name": "Man in Tuxedo",
+    "svg": "man-in-tuxedo.svg"
+  },
+  {
+    "name": "Man Judge",
+    "svg": "man-judge.svg"
+  },
+  {
+    "name": "Man Juggling",
+    "svg": "man-juggling.svg"
+  },
+  {
+    "name": "Man Kneeling",
+    "svg": "man-kneeling.svg"
+  },
+  {
+    "name": "Man Lifting Weights",
+    "svg": "man-lifting-weights.svg"
+  },
+  {
+    "name": "Man Mage",
+    "svg": "man-mage.svg"
+  },
+  {
+    "name": "Man Mechanic",
+    "svg": "man-mechanic.svg"
+  },
+  {
+    "name": "Man Merpeople",
+    "svg": "man-merpeople.svg"
+  },
+  {
+    "name": "Man Mountain Biking",
+    "svg": "man-mountain-biking.svg"
+  },
+  {
+    "name": "Man Office Worker",
+    "svg": "man-office-worker.svg"
+  },
+  {
+    "name": "Man Pilot",
+    "svg": "man-pilot.svg"
+  },
+  {
+    "name": "Man Playing Handball",
+    "svg": "man-playing-handball.svg"
+  },
+  {
+    "name": "Man Playing Water Polo",
+    "svg": "man-playing-water-polo.svg"
+  },
+  {
+    "name": "Man Police Officer",
+    "svg": "man-police-officer.svg"
+  },
+  {
+    "name": "Man Pouting",
+    "svg": "man-pouting.svg"
+  },
+  {
+    "name": "Man Raising Hand",
+    "svg": "man-raising-hand.svg"
+  },
+  {
+    "name": "Man Red Hair",
+    "svg": "man-red-hair.svg"
+  },
+  {
+    "name": "Man Rowing Boat",
+    "svg": "man-rowing-boat.svg"
+  },
+  {
+    "name": "Man Running",
+    "svg": "man-running.svg"
+  },
+  {
+    "name": "Man Scientist",
+    "svg": "man-scientist.svg"
+  },
+  {
+    "name": "Man Shrugging",
+    "svg": "man-shrugging.svg"
+  },
+  {
+    "name": "Man Singer",
+    "svg": "man-singer.svg"
+  },
+  {
+    "name": "Man Standing",
+    "svg": "man-standing.svg"
+  },
+  {
+    "name": "Man Student",
+    "svg": "man-student.svg"
+  },
+  {
+    "name": "Man Superhero",
+    "svg": "man-superhero.svg"
+  },
+  {
+    "name": "Man Supervillain",
+    "svg": "man-supervillain.svg"
+  },
+  {
+    "name": "Man Surfing",
+    "svg": "man-surfing.svg"
+  },
+  {
+    "name": "Man Swimming",
+    "svg": "man-swimming.svg"
+  },
+  {
+    "name": "Man Teacher",
+    "svg": "man-teacher.svg"
+  },
+  {
+    "name": "Man Tipping Hand",
+    "svg": "man-tipping-hand.svg"
+  },
+  {
+    "name": "Man Vampire",
+    "svg": "man-vampire.svg"
+  },
+  {
+    "name": "Man Walking",
+    "svg": "man-walking.svg"
+  },
+  {
+    "name": "Man Wearing Turban",
+    "svg": "man-wearing-turban.svg"
+  },
+  {
+    "name": "Man White Hair",
+    "svg": "man-white-hair.svg"
+  },
+  {
+    "name": "Man With White Cane",
+    "svg": "man-with-white-cane.svg"
+  },
+  {
+    "name": "Man Wrestling",
+    "svg": "man-wrestling.svg"
+  },
+  {
+    "name": "Man Zombie",
+    "svg": "man-zombie.svg"
+  },
+  {
+    "name": "Man",
+    "svg": "man.svg"
+  },
+  {
+    "name": "Mango",
+    "svg": "mango.svg"
+  },
+  {
+    "name": "Mans Shoe",
+    "svg": "mans-shoe.svg"
+  },
+  {
+    "name": "Mantelpiece Clock",
+    "svg": "mantelpiece-clock.svg"
+  },
+  {
+    "name": "Manual Wheelchair",
+    "svg": "manual-wheelchair.svg"
+  },
+  {
+    "name": "Map of Japan",
+    "svg": "map-of-japan.svg"
+  },
+  {
+    "name": "Maple Leaf",
+    "svg": "maple-leaf.svg"
+  },
+  {
+    "name": "Martial Arts Uniform",
+    "svg": "martial-arts-uniform.svg"
+  },
+  {
+    "name": "Mate",
+    "svg": "mate.svg"
+  },
+  {
+    "name": "Meat on Bone",
+    "svg": "meat-on-bone.svg"
+  },
+  {
+    "name": "Mechanic",
+    "svg": "mechanic.svg"
+  },
+  {
+    "name": "Mechanical Arm",
+    "svg": "mechanical-arm.svg"
+  },
+  {
+    "name": "Mechanical Leg",
+    "svg": "mechanical-leg.svg"
+  },
+  {
+    "name": "Medical Symbol",
+    "svg": "medical-symbol.svg"
+  },
+  {
+    "name": "Megaphone",
+    "svg": "megaphone.svg"
+  },
+  {
+    "name": "Melon",
+    "svg": "melon.svg"
+  },
+  {
+    "name": "Melting Face",
+    "svg": "melting-face.svg"
+  },
+  {
+    "name": "Memo",
+    "svg": "memo.svg"
+  },
+  {
+    "name": "Mending Heart",
+    "svg": "mending-heart.svg"
+  },
+  {
+    "name": "Menorah",
+    "svg": "menorah.svg"
+  },
+  {
+    "name": "Mens Room",
+    "svg": "mens-room.svg"
+  },
+  {
+    "name": "Metro",
+    "svg": "metro.svg"
+  },
+  {
+    "name": "Microbe",
+    "svg": "microbe.svg"
+  },
+  {
+    "name": "Microphone",
+    "svg": "microphone.svg"
+  },
+  {
+    "name": "Microscope",
+    "svg": "microscope.svg"
+  },
+  {
+    "name": "Middle Finger",
+    "svg": "middle-finger.svg"
+  },
+  {
+    "name": "Military Helmet",
+    "svg": "military-helmet.svg"
+  },
+  {
+    "name": "Military Medal",
+    "svg": "military-medal.svg"
+  },
+  {
+    "name": "Milky Way",
+    "svg": "milky-way.svg"
+  },
+  {
+    "name": "Minibus",
+    "svg": "minibus.svg"
+  },
+  {
+    "name": "Minus",
+    "svg": "minus.svg"
+  },
+  {
+    "name": "Mirror Ball",
+    "svg": "mirror-ball.svg"
+  },
+  {
+    "name": "Mirror",
+    "svg": "mirror.svg"
+  },
+  {
+    "name": "Moai",
+    "svg": "moai.svg"
+  },
+  {
+    "name": "Mobile Phone Off",
+    "svg": "mobile-phone-off.svg"
+  },
+  {
+    "name": "Mobile Phone With Arrow",
+    "svg": "mobile-phone-with-arrow.svg"
+  },
+  {
+    "name": "Mobile Phone",
+    "svg": "mobile-phone.svg"
+  },
+  {
+    "name": "Money Bag",
+    "svg": "money-bag.svg"
+  },
+  {
+    "name": "Money Mouth Face",
+    "svg": "money-mouth-face.svg"
+  },
+  {
+    "name": "Money With Wings",
+    "svg": "money-with-wings.svg"
+  },
+  {
+    "name": "Monkey Face",
+    "svg": "monkey-face.svg"
+  },
+  {
+    "name": "Monkey",
+    "svg": "monkey.svg"
+  },
+  {
+    "name": "Monorail",
+    "svg": "monorail.svg"
+  },
+  {
+    "name": "Moon Cake",
+    "svg": "moon-cake.svg"
+  },
+  {
+    "name": "Moon Viewing Ceremony",
+    "svg": "moon-viewing-ceremony.svg"
+  },
+  {
+    "name": "Mosque",
+    "svg": "mosque.svg"
+  },
+  {
+    "name": "Mosquito",
+    "svg": "mosquito.svg"
+  },
+  {
+    "name": "Motor Boat",
+    "svg": "motor-boat.svg"
+  },
+  {
+    "name": "Motor Scooter",
+    "svg": "motor-scooter.svg"
+  },
+  {
+    "name": "Motorcycle",
+    "svg": "motorcycle.svg"
+  },
+  {
+    "name": "Motorized Wheelchair",
+    "svg": "motorized-wheelchair.svg"
+  },
+  {
+    "name": "Motorway",
+    "svg": "motorway.svg"
+  },
+  {
+    "name": "Mount Fuji",
+    "svg": "mount-fuji.svg"
+  },
+  {
+    "name": "Mountain Cableway",
+    "svg": "mountain-cableway.svg"
+  },
+  {
+    "name": "Mountain Railway",
+    "svg": "mountain-railway.svg"
+  },
+  {
+    "name": "Mountain",
+    "svg": "mountain.svg"
+  },
+  {
+    "name": "Mouse Face",
+    "svg": "mouse-face.svg"
+  },
+  {
+    "name": "Mouse Trap",
+    "svg": "mouse-trap.svg"
+  },
+  {
+    "name": "Mouse",
+    "svg": "mouse.svg"
+  },
+  {
+    "name": "Mouth",
+    "svg": "mouth.svg"
+  },
+  {
+    "name": "Movie Camera",
+    "svg": "movie-camera.svg"
+  },
+  {
+    "name": "Mrs Claus",
+    "svg": "mrs-claus.svg"
+  },
+  {
+    "name": "Multiply",
+    "svg": "multiply.svg"
+  },
+  {
+    "name": "Mushroom",
+    "svg": "mushroom.svg"
+  },
+  {
+    "name": "Musical Keyboard",
+    "svg": "musical-keyboard.svg"
+  },
+  {
+    "name": "Musical Note",
+    "svg": "musical-note.svg"
+  },
+  {
+    "name": "Musical Notes",
+    "svg": "musical-notes.svg"
+  },
+  {
+    "name": "Musical Score",
+    "svg": "musical-score.svg"
+  },
+  {
+    "name": "Muted Speaker",
+    "svg": "muted-speaker.svg"
+  },
+  {
+    "name": "Mx Claus",
+    "svg": "mx-claus.svg"
+  },
+  {
+    "name": "Nail Polish",
+    "svg": "nail-polish.svg"
+  },
+  {
+    "name": "Name Badge",
+    "svg": "name-badge.svg"
+  },
+  {
+    "name": "National Park",
+    "svg": "national-park.svg"
+  },
+  {
+    "name": "Nauseated Face",
+    "svg": "nauseated-face.svg"
+  },
+  {
+    "name": "Nazar Amulet",
+    "svg": "nazar-amulet.svg"
+  },
+  {
+    "name": "Necktie",
+    "svg": "necktie.svg"
+  },
+  {
+    "name": "Nerd Face",
+    "svg": "nerd-face.svg"
+  },
+  {
+    "name": "Nest With Eggs",
+    "svg": "nest-with-eggs.svg"
+  },
+  {
+    "name": "Nesting Dolls",
+    "svg": "nesting-dolls.svg"
+  },
+  {
+    "name": "Neutral Face",
+    "svg": "neutral-face.svg"
+  },
+  {
+    "name": "New Button",
+    "svg": "new-button.svg"
+  },
+  {
+    "name": "New Moon Face",
+    "svg": "new-moon-face.svg"
+  },
+  {
+    "name": "New Moon",
+    "svg": "new-moon.svg"
+  },
+  {
+    "name": "Newspaper",
+    "svg": "newspaper.svg"
+  },
+  {
+    "name": "Next Track Button",
+    "svg": "next-track-button.svg"
+  },
+  {
+    "name": "Ng Button",
+    "svg": "ng-button.svg"
+  },
+  {
+    "name": "Night With Stars",
+    "svg": "night-with-stars.svg"
+  },
+  {
+    "name": "Nine Oclock",
+    "svg": "nine-oclock.svg"
+  },
+  {
+    "name": "Nine Thirty",
+    "svg": "nine-thirty.svg"
+  },
+  {
+    "name": "Ninja",
+    "svg": "ninja.svg"
+  },
+  {
+    "name": "No Bicycles",
+    "svg": "no-bicycles.svg"
+  },
+  {
+    "name": "No Entry",
+    "svg": "no-entry.svg"
+  },
+  {
+    "name": "No Littering",
+    "svg": "no-littering.svg"
+  },
+  {
+    "name": "No Mobile Phones",
+    "svg": "no-mobile-phones.svg"
+  },
+  {
+    "name": "No One Under Eighteen",
+    "svg": "no-one-under-eighteen.svg"
+  },
+  {
+    "name": "No Pedestrians",
+    "svg": "no-pedestrians.svg"
+  },
+  {
+    "name": "No Smoking",
+    "svg": "no-smoking.svg"
+  },
+  {
+    "name": "Non Potable Water",
+    "svg": "non-potable-water.svg"
+  },
+  {
+    "name": "Nose",
+    "svg": "nose.svg"
+  },
+  {
+    "name": "Notebook With Decorative Cover",
+    "svg": "notebook-with-decorative-cover.svg"
+  },
+  {
+    "name": "Notebook",
+    "svg": "notebook.svg"
+  },
+  {
+    "name": "Nut And Bolt",
+    "svg": "nut-and-bolt.svg"
+  },
+  {
+    "name": "O Button Blood Type",
+    "svg": "o-button-blood-type.svg"
+  },
+  {
+    "name": "Octopus",
+    "svg": "octopus.svg"
+  },
+  {
+    "name": "Oden",
+    "svg": "oden.svg"
+  },
+  {
+    "name": "Office Building",
+    "svg": "office-building.svg"
+  },
+  {
+    "name": "Office Worker",
+    "svg": "office-worker.svg"
+  },
+  {
+    "name": "Ogre",
+    "svg": "ogre.svg"
+  },
+  {
+    "name": "Oil Drum",
+    "svg": "oil-drum.svg"
+  },
+  {
+    "name": "Ok Button",
+    "svg": "ok-button.svg"
+  },
+  {
+    "name": "Ok Hand",
+    "svg": "ok-hand.svg"
+  },
+  {
+    "name": "Old Key",
+    "svg": "old-key.svg"
+  },
+  {
+    "name": "Old Man",
+    "svg": "old-man.svg"
+  },
+  {
+    "name": "Old Woman",
+    "svg": "old-woman.svg"
+  },
+  {
+    "name": "Older Person",
+    "svg": "older-person.svg"
+  },
+  {
+    "name": "Olive",
+    "svg": "olive.svg"
+  },
+  {
+    "name": "Om",
+    "svg": "om.svg"
+  },
+  {
+    "name": "On Arrow",
+    "svg": "on-arrow.svg"
+  },
+  {
+    "name": "Oncoming Automobile",
+    "svg": "oncoming-automobile.svg"
+  },
+  {
+    "name": "Oncoming Bus",
+    "svg": "oncoming-bus.svg"
+  },
+  {
+    "name": "Oncoming Fist",
+    "svg": "oncoming-fist.svg"
+  },
+  {
+    "name": "Oncoming Police Car",
+    "svg": "oncoming-police-car.svg"
+  },
+  {
+    "name": "Oncoming Taxi",
+    "svg": "oncoming-taxi.svg"
+  },
+  {
+    "name": "One Oclock",
+    "svg": "one-oclock.svg"
+  },
+  {
+    "name": "One Piece Swimsuit",
+    "svg": "one-piece-swimsuit.svg"
+  },
+  {
+    "name": "One Thirty",
+    "svg": "one-thirty.svg"
+  },
+  {
+    "name": "Onion",
+    "svg": "onion.svg"
+  },
+  {
+    "name": "Open Book",
+    "svg": "open-book.svg"
+  },
+  {
+    "name": "Open File Folder",
+    "svg": "open-file-folder.svg"
+  },
+  {
+    "name": "Open Hands",
+    "svg": "open-hands.svg"
+  },
+  {
+    "name": "Open Mailbox With Lowered Flag",
+    "svg": "open-mailbox-with-lowered-flag.svg"
+  },
+  {
+    "name": "Open Mailbox With Raised Flag",
+    "svg": "open-mailbox-with-raised-flag.svg"
+  },
+  {
+    "name": "Ophiuchus",
+    "svg": "ophiuchus.svg"
+  },
+  {
+    "name": "Optical Disk",
+    "svg": "optical-disk.svg"
+  },
+  {
+    "name": "Orange Book",
+    "svg": "orange-book.svg"
+  },
+  {
+    "name": "Orange Circle",
+    "svg": "orange-circle.svg"
+  },
+  {
+    "name": "Orange Heart",
+    "svg": "orange-heart.svg"
+  },
+  {
+    "name": "Orange Square",
+    "svg": "orange-square.svg"
+  },
+  {
+    "name": "Orangutan",
+    "svg": "orangutan.svg"
+  },
+  {
+    "name": "Orthodox Cross",
+    "svg": "orthodox-cross.svg"
+  },
+  {
+    "name": "Otter",
+    "svg": "otter.svg"
+  },
+  {
+    "name": "Outbox Tray",
+    "svg": "outbox-tray.svg"
+  },
+  {
+    "name": "Owl",
+    "svg": "owl.svg"
+  },
+  {
+    "name": "Ox",
+    "svg": "ox.svg"
+  },
+  {
+    "name": "Oyster",
+    "svg": "oyster.svg"
+  },
+  {
+    "name": "P Button",
+    "svg": "p-button.svg"
+  },
+  {
+    "name": "Package",
+    "svg": "package.svg"
+  },
+  {
+    "name": "Page Facing up",
+    "svg": "page-facing-up.svg"
+  },
+  {
+    "name": "Page With Curl",
+    "svg": "page-with-curl.svg"
+  },
+  {
+    "name": "Pager",
+    "svg": "pager.svg"
+  },
+  {
+    "name": "Paintbrush",
+    "svg": "paintbrush.svg"
+  },
+  {
+    "name": "Palm Down Hand",
+    "svg": "palm-down-hand.svg"
+  },
+  {
+    "name": "Palm Tree",
+    "svg": "palm-tree.svg"
+  },
+  {
+    "name": "Palm up Hand",
+    "svg": "palm-up-hand.svg"
+  },
+  {
+    "name": "Palms up Together",
+    "svg": "palms-up-together.svg"
+  },
+  {
+    "name": "Pancakes",
+    "svg": "pancakes.svg"
+  },
+  {
+    "name": "Panda",
+    "svg": "panda.svg"
+  },
+  {
+    "name": "Parachute",
+    "svg": "parachute.svg"
+  },
+  {
+    "name": "Parrot",
+    "svg": "parrot.svg"
+  },
+  {
+    "name": "Part Alternation Mark",
+    "svg": "part-alternation-mark.svg"
+  },
+  {
+    "name": "Party Popper",
+    "svg": "party-popper.svg"
+  },
+  {
+    "name": "Partying Face",
+    "svg": "partying-face.svg"
+  },
+  {
+    "name": "Passenger Ship",
+    "svg": "passenger-ship.svg"
+  },
+  {
+    "name": "Passport Control",
+    "svg": "passport-control.svg"
+  },
+  {
+    "name": "Pause Button",
+    "svg": "pause-button.svg"
+  },
+  {
+    "name": "Paw Prints",
+    "svg": "paw-prints.svg"
+  },
+  {
+    "name": "Peace Symbol",
+    "svg": "peace-symbol.svg"
+  },
+  {
+    "name": "Peach",
+    "svg": "peach.svg"
+  },
+  {
+    "name": "Peacock",
+    "svg": "peacock.svg"
+  },
+  {
+    "name": "Peanuts",
+    "svg": "peanuts.svg"
+  },
+  {
+    "name": "Pear",
+    "svg": "pear.svg"
+  },
+  {
+    "name": "Pen",
+    "svg": "pen.svg"
+  },
+  {
+    "name": "Pencil",
+    "svg": "pencil.svg"
+  },
+  {
+    "name": "Penguin",
+    "svg": "penguin.svg"
+  },
+  {
+    "name": "Pensive Face",
+    "svg": "pensive-face.svg"
+  },
+  {
+    "name": "People Hugging",
+    "svg": "people-hugging.svg"
+  },
+  {
+    "name": "Performing Arts",
+    "svg": "performing-arts.svg"
+  },
+  {
+    "name": "Persevering Face",
+    "svg": "persevering-face.svg"
+  },
+  {
+    "name": "Person Bald",
+    "svg": "person-bald.svg"
+  },
+  {
+    "name": "Person Beard",
+    "svg": "person-beard.svg"
+  },
+  {
+    "name": "Person Biking",
+    "svg": "person-biking.svg"
+  },
+  {
+    "name": "Person Blonde Hair",
+    "svg": "person-blonde-hair.svg"
+  },
+  {
+    "name": "Person Bouncing Ball",
+    "svg": "person-bouncing-ball.svg"
+  },
+  {
+    "name": "Person Bowing",
+    "svg": "person-bowing.svg"
+  },
+  {
+    "name": "Person Cartwheeling",
+    "svg": "person-cartwheeling.svg"
+  },
+  {
+    "name": "Person Climbing",
+    "svg": "person-climbing.svg"
+  },
+  {
+    "name": "Person Curly Hair",
+    "svg": "person-curly-hair.svg"
+  },
+  {
+    "name": "Person Deaf",
+    "svg": "person-deaf.svg"
+  },
+  {
+    "name": "Person Elf",
+    "svg": "person-elf.svg"
+  },
+  {
+    "name": "Person Facepalming",
+    "svg": "person-facepalming.svg"
+  },
+  {
+    "name": "Person Fairy",
+    "svg": "person-fairy.svg"
+  },
+  {
+    "name": "Person Feeding Baby",
+    "svg": "person-feeding-baby.svg"
+  },
+  {
+    "name": "Person Fencing",
+    "svg": "person-fencing.svg"
+  },
+  {
+    "name": "Person Frowning",
+    "svg": "person-frowning.svg"
+  },
+  {
+    "name": "Person Genie",
+    "svg": "person-genie.svg"
+  },
+  {
+    "name": "Person Gesturing no",
+    "svg": "person-gesturing-no.svg"
+  },
+  {
+    "name": "Person Gesturing ok",
+    "svg": "person-gesturing-ok.svg"
+  },
+  {
+    "name": "Person Getting Haircut",
+    "svg": "person-getting-haircut.svg"
+  },
+  {
+    "name": "Person Getting Massage",
+    "svg": "person-getting-massage.svg"
+  },
+  {
+    "name": "Person Golfing",
+    "svg": "person-golfing.svg"
+  },
+  {
+    "name": "Person in Bed",
+    "svg": "person-in-bed.svg"
+  },
+  {
+    "name": "Person in Lotus Position",
+    "svg": "person-in-lotus-position.svg"
+  },
+  {
+    "name": "Person in Manual Wheelchair",
+    "svg": "person-in-manual-wheelchair.svg"
+  },
+  {
+    "name": "Person in Motorized Wheelchair",
+    "svg": "person-in-motorized-wheelchair.svg"
+  },
+  {
+    "name": "Person in Steamy Room",
+    "svg": "person-in-steamy-room.svg"
+  },
+  {
+    "name": "Person in Suit Levitating",
+    "svg": "person-in-suit-levitating.svg"
+  },
+  {
+    "name": "Person in Tuxedo",
+    "svg": "person-in-tuxedo.svg"
+  },
+  {
+    "name": "Person Juggling",
+    "svg": "person-juggling.svg"
+  },
+  {
+    "name": "Person Kneeling",
+    "svg": "person-kneeling.svg"
+  },
+  {
+    "name": "Person Lifting Weights",
+    "svg": "person-lifting-weights.svg"
+  },
+  {
+    "name": "Person Mage",
+    "svg": "person-mage.svg"
+  },
+  {
+    "name": "Person Merpeople",
+    "svg": "person-merpeople.svg"
+  },
+  {
+    "name": "Person Mountain Biking",
+    "svg": "person-mountain-biking.svg"
+  },
+  {
+    "name": "Person Playing Handball",
+    "svg": "person-playing-handball.svg"
+  },
+  {
+    "name": "Person Playing Water Polo",
+    "svg": "person-playing-water-polo.svg"
+  },
+  {
+    "name": "Person Pouting",
+    "svg": "person-pouting.svg"
+  },
+  {
+    "name": "Person Raising Hand",
+    "svg": "person-raising-hand.svg"
+  },
+  {
+    "name": "Person Red Hair",
+    "svg": "person-red-hair.svg"
+  },
+  {
+    "name": "Person Rowing Boat",
+    "svg": "person-rowing-boat.svg"
+  },
+  {
+    "name": "Person Running",
+    "svg": "person-running.svg"
+  },
+  {
+    "name": "Person Shrugging",
+    "svg": "person-shrugging.svg"
+  },
+  {
+    "name": "Person Standing",
+    "svg": "person-standing.svg"
+  },
+  {
+    "name": "Person Superhero",
+    "svg": "person-superhero.svg"
+  },
+  {
+    "name": "Person Supervillain",
+    "svg": "person-supervillain.svg"
+  },
+  {
+    "name": "Person Surfing",
+    "svg": "person-surfing.svg"
+  },
+  {
+    "name": "Person Swimming",
+    "svg": "person-swimming.svg"
+  },
+  {
+    "name": "Person Taking Bath",
+    "svg": "person-taking-bath.svg"
+  },
+  {
+    "name": "Person Tipping Hand",
+    "svg": "person-tipping-hand.svg"
+  },
+  {
+    "name": "Person Vampire",
+    "svg": "person-vampire.svg"
+  },
+  {
+    "name": "Person Walking",
+    "svg": "person-walking.svg"
+  },
+  {
+    "name": "Person Wearing Turban",
+    "svg": "person-wearing-turban.svg"
+  },
+  {
+    "name": "Person White Hair",
+    "svg": "person-white-hair.svg"
+  },
+  {
+    "name": "Person With Crown",
+    "svg": "person-with-crown.svg"
+  },
+  {
+    "name": "Person With Skullcap",
+    "svg": "person-with-skullcap.svg"
+  },
+  {
+    "name": "Person With White Cane",
+    "svg": "person-with-white-cane.svg"
+  },
+  {
+    "name": "Person Wrestling",
+    "svg": "person-wrestling.svg"
+  },
+  {
+    "name": "Person Zombie",
+    "svg": "person-zombie.svg"
+  },
+  {
+    "name": "Person",
+    "svg": "person.svg"
+  },
+  {
+    "name": "Petri Dish",
+    "svg": "petri-dish.svg"
+  },
+  {
+    "name": "Pick",
+    "svg": "pick.svg"
+  },
+  {
+    "name": "Pickup Truck",
+    "svg": "pickup-truck.svg"
+  },
+  {
+    "name": "Pie",
+    "svg": "pie.svg"
+  },
+  {
+    "name": "Pig Face",
+    "svg": "pig-face.svg"
+  },
+  {
+    "name": "Pig Nose",
+    "svg": "pig-nose.svg"
+  },
+  {
+    "name": "Pig",
+    "svg": "pig.svg"
+  },
+  {
+    "name": "Pile of Poo",
+    "svg": "pile-of-poo.svg"
+  },
+  {
+    "name": "Pill",
+    "svg": "pill.svg"
+  },
+  {
+    "name": "Pilot",
+    "svg": "pilot.svg"
+  },
+  {
+    "name": "PiÑAta",
+    "svg": "piñata.svg"
+  },
+  {
+    "name": "Pinched Fingers",
+    "svg": "pinched-fingers.svg"
+  },
+  {
+    "name": "Pinching Hand",
+    "svg": "pinching-hand.svg"
+  },
+  {
+    "name": "Pine Decoration",
+    "svg": "pine-decoration.svg"
+  },
+  {
+    "name": "Pineapple",
+    "svg": "pineapple.svg"
+  },
+  {
+    "name": "Ping Pong",
+    "svg": "ping-pong.svg"
+  },
+  {
+    "name": "Pirate Flag",
+    "svg": "pirate-flag.svg"
+  },
+  {
+    "name": "Pisces",
+    "svg": "pisces.svg"
+  },
+  {
+    "name": "Pizza",
+    "svg": "pizza.svg"
+  },
+  {
+    "name": "Placard",
+    "svg": "placard.svg"
+  },
+  {
+    "name": "Place of Worship",
+    "svg": "place-of-worship.svg"
+  },
+  {
+    "name": "Play Button",
+    "svg": "play-button.svg"
+  },
+  {
+    "name": "Play or Pause Button",
+    "svg": "play-or-pause-button.svg"
+  },
+  {
+    "name": "Playground Slide",
+    "svg": "playground-slide.svg"
+  },
+  {
+    "name": "Pleading Face",
+    "svg": "pleading-face.svg"
+  },
+  {
+    "name": "Plunger",
+    "svg": "plunger.svg"
+  },
+  {
+    "name": "Plus",
+    "svg": "plus.svg"
+  },
+  {
+    "name": "Polar Bear",
+    "svg": "polar-bear.svg"
+  },
+  {
+    "name": "Police Car Light",
+    "svg": "police-car-light.svg"
+  },
+  {
+    "name": "Police Car",
+    "svg": "police-car.svg"
+  },
+  {
+    "name": "Police Officer",
+    "svg": "police-officer.svg"
+  },
+  {
+    "name": "Poodle",
+    "svg": "poodle.svg"
+  },
+  {
+    "name": "Pool 8 Ball",
+    "svg": "pool-8-ball.svg"
+  },
+  {
+    "name": "Popcorn",
+    "svg": "popcorn.svg"
+  },
+  {
+    "name": "Post Office",
+    "svg": "post-office.svg"
+  },
+  {
+    "name": "Postal Horn",
+    "svg": "postal-horn.svg"
+  },
+  {
+    "name": "Postbox",
+    "svg": "postbox.svg"
+  },
+  {
+    "name": "Pot of Food",
+    "svg": "pot-of-food.svg"
+  },
+  {
+    "name": "Potable Water",
+    "svg": "potable-water.svg"
+  },
+  {
+    "name": "Potato",
+    "svg": "potato.svg"
+  },
+  {
+    "name": "Potted Plant",
+    "svg": "potted-plant.svg"
+  },
+  {
+    "name": "Poultry Leg",
+    "svg": "poultry-leg.svg"
+  },
+  {
+    "name": "Pound Banknote",
+    "svg": "pound-banknote.svg"
+  },
+  {
+    "name": "Pouring Liquid",
+    "svg": "pouring-liquid.svg"
+  },
+  {
+    "name": "Pouting Cat",
+    "svg": "pouting-cat.svg"
+  },
+  {
+    "name": "Pouting Face",
+    "svg": "pouting-face.svg"
+  },
+  {
+    "name": "Prayer Beads",
+    "svg": "prayer-beads.svg"
+  },
+  {
+    "name": "Pregnant Woman",
+    "svg": "pregnant-woman.svg"
+  },
+  {
+    "name": "Pretzel",
+    "svg": "pretzel.svg"
+  },
+  {
+    "name": "Prince",
+    "svg": "prince.svg"
+  },
+  {
+    "name": "Princess",
+    "svg": "princess.svg"
+  },
+  {
+    "name": "Printer",
+    "svg": "printer.svg"
+  },
+  {
+    "name": "Prohibited",
+    "svg": "prohibited.svg"
+  },
+  {
+    "name": "Purple Circle",
+    "svg": "purple-circle.svg"
+  },
+  {
+    "name": "Purple Heart",
+    "svg": "purple-heart.svg"
+  },
+  {
+    "name": "Purple Square",
+    "svg": "purple-square.svg"
+  },
+  {
+    "name": "Purse",
+    "svg": "purse.svg"
+  },
+  {
+    "name": "Pushpin",
+    "svg": "pushpin.svg"
+  },
+  {
+    "name": "Puzzle Piece",
+    "svg": "puzzle-piece.svg"
+  },
+  {
+    "name": "Rabbit Face",
+    "svg": "rabbit-face.svg"
+  },
+  {
+    "name": "Rabbit",
+    "svg": "rabbit.svg"
+  },
+  {
+    "name": "Raccoon",
+    "svg": "raccoon.svg"
+  },
+  {
+    "name": "Racing Car",
+    "svg": "racing-car.svg"
+  },
+  {
+    "name": "Radio Button",
+    "svg": "radio-button.svg"
+  },
+  {
+    "name": "Radio",
+    "svg": "radio.svg"
+  },
+  {
+    "name": "Radioactive",
+    "svg": "radioactive.svg"
+  },
+  {
+    "name": "Railway Car",
+    "svg": "railway-car.svg"
+  },
+  {
+    "name": "Railway Track",
+    "svg": "railway-track.svg"
+  },
+  {
+    "name": "Rainbow",
+    "svg": "rainbow.svg"
+  },
+  {
+    "name": "Raised Back of Hand",
+    "svg": "raised-back-of-hand.svg"
+  },
+  {
+    "name": "Raised Fist",
+    "svg": "raised-fist.svg"
+  },
+  {
+    "name": "Raised Hand",
+    "svg": "raised-hand.svg"
+  },
+  {
+    "name": "Raising Hands",
+    "svg": "raising-hands.svg"
+  },
+  {
+    "name": "Ram",
+    "svg": "ram.svg"
+  },
+  {
+    "name": "Rat",
+    "svg": "rat.svg"
+  },
+  {
+    "name": "Razor",
+    "svg": "razor.svg"
+  },
+  {
+    "name": "Receipt",
+    "svg": "receipt.svg"
+  },
+  {
+    "name": "Record Button",
+    "svg": "record-button.svg"
+  },
+  {
+    "name": "Recycling Symbol",
+    "svg": "recycling-symbol.svg"
+  },
+  {
+    "name": "Red Apple",
+    "svg": "red-apple.svg"
+  },
+  {
+    "name": "Red Circle",
+    "svg": "red-circle.svg"
+  },
+  {
+    "name": "Red Envelope",
+    "svg": "red-envelope.svg"
+  },
+  {
+    "name": "Red Exclamation Mark",
+    "svg": "red-exclamation-mark.svg"
+  },
+  {
+    "name": "Red Heart",
+    "svg": "red-heart.svg"
+  },
+  {
+    "name": "Red Paper Lantern",
+    "svg": "red-paper-lantern.svg"
+  },
+  {
+    "name": "Red Question Mark",
+    "svg": "red-question-mark.svg"
+  },
+  {
+    "name": "Red Square",
+    "svg": "red-square.svg"
+  },
+  {
+    "name": "Red Triangle Pointed Down",
+    "svg": "red-triangle-pointed-down.svg"
+  },
+  {
+    "name": "Red Triangle",
+    "svg": "red-triangle.svg"
+  },
+  {
+    "name": "Registered",
+    "svg": "registered.svg"
+  },
+  {
+    "name": "Relieved Face",
+    "svg": "relieved-face.svg"
+  },
+  {
+    "name": "Reminder Ribbon",
+    "svg": "reminder-ribbon.svg"
+  },
+  {
+    "name": "Repeat Button",
+    "svg": "repeat-button.svg"
+  },
+  {
+    "name": "Repeat Single Button",
+    "svg": "repeat-single-button.svg"
+  },
+  {
+    "name": "Rescue Workers Helmet",
+    "svg": "rescue-workers-helmet.svg"
+  },
+  {
+    "name": "Restroom",
+    "svg": "restroom.svg"
+  },
+  {
+    "name": "Reverse Button",
+    "svg": "reverse-button.svg"
+  },
+  {
+    "name": "Revolving Hearts",
+    "svg": "revolving-hearts.svg"
+  },
+  {
+    "name": "Rhinoceros",
+    "svg": "rhinoceros.svg"
+  },
+  {
+    "name": "Ribbon",
+    "svg": "ribbon.svg"
+  },
+  {
+    "name": "Rice Ball",
+    "svg": "rice-ball.svg"
+  },
+  {
+    "name": "Rice Cracker",
+    "svg": "rice-cracker.svg"
+  },
+  {
+    "name": "Right Anger Bubble",
+    "svg": "right-anger-bubble.svg"
+  },
+  {
+    "name": "Right Arrow Curving Down",
+    "svg": "right-arrow-curving-down.svg"
+  },
+  {
+    "name": "Right Arrow Curving Left",
+    "svg": "right-arrow-curving-left.svg"
+  },
+  {
+    "name": "Right Arrow Curving up",
+    "svg": "right-arrow-curving-up.svg"
+  },
+  {
+    "name": "Right Arrow",
+    "svg": "right-arrow.svg"
+  },
+  {
+    "name": "Right Facing Fist",
+    "svg": "right-facing-fist.svg"
+  },
+  {
+    "name": "Rightwards Hand",
+    "svg": "rightwards-hand.svg"
+  },
+  {
+    "name": "Ring Buoy",
+    "svg": "ring-buoy.svg"
+  },
+  {
+    "name": "Ring",
+    "svg": "ring.svg"
+  },
+  {
+    "name": "Ringed Planet",
+    "svg": "ringed-planet.svg"
+  },
+  {
+    "name": "Roasted Sweet Potato",
+    "svg": "roasted-sweet-potato.svg"
+  },
+  {
+    "name": "Robot",
+    "svg": "robot.svg"
+  },
+  {
+    "name": "Rock",
+    "svg": "rock.svg"
+  },
+  {
+    "name": "Rocket",
+    "svg": "rocket.svg"
+  },
+  {
+    "name": "Roll of Paper",
+    "svg": "roll-of-paper.svg"
+  },
+  {
+    "name": "Rolled up Newspaper",
+    "svg": "rolled-up-newspaper.svg"
+  },
+  {
+    "name": "Roller Coaster",
+    "svg": "roller-coaster.svg"
+  },
+  {
+    "name": "Roller Skate",
+    "svg": "roller-skate.svg"
+  },
+  {
+    "name": "Rolling on The Floor Laughing",
+    "svg": "rolling-on-the-floor-laughing.svg"
+  },
+  {
+    "name": "Rooster",
+    "svg": "rooster.svg"
+  },
+  {
+    "name": "Rose",
+    "svg": "rose.svg"
+  },
+  {
+    "name": "Rosette",
+    "svg": "rosette.svg"
+  },
+  {
+    "name": "Round Pushpin",
+    "svg": "round-pushpin.svg"
+  },
+  {
+    "name": "Rugby Football",
+    "svg": "rugby-football.svg"
+  },
+  {
+    "name": "Running Shirt",
+    "svg": "running-shirt.svg"
+  },
+  {
+    "name": "Running Shoe",
+    "svg": "running-shoe.svg"
+  },
+  {
+    "name": "Sad But Relieved Face",
+    "svg": "sad-but-relieved-face.svg"
+  },
+  {
+    "name": "Safety Pin",
+    "svg": "safety-pin.svg"
+  },
+  {
+    "name": "Safety Vest",
+    "svg": "safety-vest.svg"
+  },
+  {
+    "name": "Sagittarius",
+    "svg": "sagittarius.svg"
+  },
+  {
+    "name": "Sailboat",
+    "svg": "sailboat.svg"
+  },
+  {
+    "name": "Sake",
+    "svg": "sake.svg"
+  },
+  {
+    "name": "Salt",
+    "svg": "salt.svg"
+  },
+  {
+    "name": "Saluting Face",
+    "svg": "saluting-face.svg"
+  },
+  {
+    "name": "Sandwich",
+    "svg": "sandwich.svg"
+  },
+  {
+    "name": "Santa Claus",
+    "svg": "santa-claus.svg"
+  },
+  {
+    "name": "Sari",
+    "svg": "sari.svg"
+  },
+  {
+    "name": "Satellite Antenna",
+    "svg": "satellite-antenna.svg"
+  },
+  {
+    "name": "Satellite",
+    "svg": "satellite.svg"
+  },
+  {
+    "name": "Sauropod",
+    "svg": "sauropod.svg"
+  },
+  {
+    "name": "Saxophone",
+    "svg": "saxophone.svg"
+  },
+  {
+    "name": "Scarf",
+    "svg": "scarf.svg"
+  },
+  {
+    "name": "School",
+    "svg": "school.svg"
+  },
+  {
+    "name": "Scientist",
+    "svg": "scientist.svg"
+  },
+  {
+    "name": "Scissors",
+    "svg": "scissors.svg"
+  },
+  {
+    "name": "Scorpio",
+    "svg": "scorpio.svg"
+  },
+  {
+    "name": "Scorpion",
+    "svg": "scorpion.svg"
+  },
+  {
+    "name": "Screwdriver",
+    "svg": "screwdriver.svg"
+  },
+  {
+    "name": "Scroll",
+    "svg": "scroll.svg"
+  },
+  {
+    "name": "Seal",
+    "svg": "seal.svg"
+  },
+  {
+    "name": "Seat",
+    "svg": "seat.svg"
+  },
+  {
+    "name": "See no Evil Monkey",
+    "svg": "see-no-evil-monkey.svg"
+  },
+  {
+    "name": "Seedling",
+    "svg": "seedling.svg"
+  },
+  {
+    "name": "Selfie",
+    "svg": "selfie.svg"
+  },
+  {
+    "name": "Service Dog",
+    "svg": "service-dog.svg"
+  },
+  {
+    "name": "Seven Oclock",
+    "svg": "seven-oclock.svg"
+  },
+  {
+    "name": "Seven Thirty",
+    "svg": "seven-thirty.svg"
+  },
+  {
+    "name": "Sewing Needle",
+    "svg": "sewing-needle.svg"
+  },
+  {
+    "name": "Shallow Pan of Food",
+    "svg": "shallow-pan-of-food.svg"
+  },
+  {
+    "name": "Shamrock",
+    "svg": "shamrock.svg"
+  },
+  {
+    "name": "Shark",
+    "svg": "shark.svg"
+  },
+  {
+    "name": "Shaved Ice",
+    "svg": "shaved-ice.svg"
+  },
+  {
+    "name": "Sheaf of Rice",
+    "svg": "sheaf-of-rice.svg"
+  },
+  {
+    "name": "Shield",
+    "svg": "shield.svg"
+  },
+  {
+    "name": "Shinto Shrine",
+    "svg": "shinto-shrine.svg"
+  },
+  {
+    "name": "Ship",
+    "svg": "ship.svg"
+  },
+  {
+    "name": "Shooting Star",
+    "svg": "shooting-star.svg"
+  },
+  {
+    "name": "Shopping Bags",
+    "svg": "shopping-bags.svg"
+  },
+  {
+    "name": "Shopping Cart",
+    "svg": "shopping-cart.svg"
+  },
+  {
+    "name": "Shortcake",
+    "svg": "shortcake.svg"
+  },
+  {
+    "name": "Shorts",
+    "svg": "shorts.svg"
+  },
+  {
+    "name": "Shower",
+    "svg": "shower.svg"
+  },
+  {
+    "name": "Shrimp",
+    "svg": "shrimp.svg"
+  },
+  {
+    "name": "Shuffle Tracks Button",
+    "svg": "shuffle-tracks-button.svg"
+  },
+  {
+    "name": "Shushing Face",
+    "svg": "shushing-face.svg"
+  },
+  {
+    "name": "Sign of The Horns",
+    "svg": "sign-of-the-horns.svg"
+  },
+  {
+    "name": "Singer",
+    "svg": "singer.svg"
+  },
+  {
+    "name": "Six Oclock",
+    "svg": "six-oclock.svg"
+  },
+  {
+    "name": "Six Thirty",
+    "svg": "six-thirty.svg"
+  },
+  {
+    "name": "Skateboard",
+    "svg": "skateboard.svg"
+  },
+  {
+    "name": "Skier",
+    "svg": "skier.svg"
+  },
+  {
+    "name": "Skis",
+    "svg": "skis.svg"
+  },
+  {
+    "name": "Skull And Crossbones",
+    "svg": "skull-and-crossbones.svg"
+  },
+  {
+    "name": "Skull",
+    "svg": "skull.svg"
+  },
+  {
+    "name": "Skunk",
+    "svg": "skunk.svg"
+  },
+  {
+    "name": "Sled",
+    "svg": "sled.svg"
+  },
+  {
+    "name": "Sleeping Face",
+    "svg": "sleeping-face.svg"
+  },
+  {
+    "name": "Sleepy Face",
+    "svg": "sleepy-face.svg"
+  },
+  {
+    "name": "Slightly Frowning Face",
+    "svg": "slightly-frowning-face.svg"
+  },
+  {
+    "name": "Slightly Smiling Face",
+    "svg": "slightly-smiling-face.svg"
+  },
+  {
+    "name": "Slot Machine",
+    "svg": "slot-machine.svg"
+  },
+  {
+    "name": "Sloth",
+    "svg": "sloth.svg"
+  },
+  {
+    "name": "Small Airplane",
+    "svg": "small-airplane.svg"
+  },
+  {
+    "name": "Small Blue Diamond",
+    "svg": "small-blue-diamond.svg"
+  },
+  {
+    "name": "Small Orange Diamond",
+    "svg": "small-orange-diamond.svg"
+  },
+  {
+    "name": "Smiling Cat With Heart Eyes",
+    "svg": "smiling-cat-with-heart-eyes.svg"
+  },
+  {
+    "name": "Smiling Face With Halo",
+    "svg": "smiling-face-with-halo.svg"
+  },
+  {
+    "name": "Smiling Face With Heart Eyes",
+    "svg": "smiling-face-with-heart-eyes.svg"
+  },
+  {
+    "name": "Smiling Face With Hearts",
+    "svg": "smiling-face-with-hearts.svg"
+  },
+  {
+    "name": "Smiling Face With Horns",
+    "svg": "smiling-face-with-horns.svg"
+  },
+  {
+    "name": "Smiling Face With Smiling Eyes",
+    "svg": "smiling-face-with-smiling-eyes.svg"
+  },
+  {
+    "name": "Smiling Face With Sunglasses",
+    "svg": "smiling-face-with-sunglasses.svg"
+  },
+  {
+    "name": "Smiling Face With Tear",
+    "svg": "smiling-face-with-tear.svg"
+  },
+  {
+    "name": "Smiling Face",
+    "svg": "smiling-face.svg"
+  },
+  {
+    "name": "Smirking Face",
+    "svg": "smirking-face.svg"
+  },
+  {
+    "name": "Snail",
+    "svg": "snail.svg"
+  },
+  {
+    "name": "Snake",
+    "svg": "snake.svg"
+  },
+  {
+    "name": "Sneezing Face",
+    "svg": "sneezing-face.svg"
+  },
+  {
+    "name": "Snow Capped Mountain",
+    "svg": "snow-capped-mountain.svg"
+  },
+  {
+    "name": "Snowboarder",
+    "svg": "snowboarder.svg"
+  },
+  {
+    "name": "Snowflake",
+    "svg": "snowflake.svg"
+  },
+  {
+    "name": "Snowman Without Snow",
+    "svg": "snowman-without-snow.svg"
+  },
+  {
+    "name": "Snowman",
+    "svg": "snowman.svg"
+  },
+  {
+    "name": "Soap",
+    "svg": "soap.svg"
+  },
+  {
+    "name": "Soccer Ball",
+    "svg": "soccer-ball.svg"
+  },
+  {
+    "name": "Socks",
+    "svg": "socks.svg"
+  },
+  {
+    "name": "Soft Ice Cream",
+    "svg": "soft-ice-cream.svg"
+  },
+  {
+    "name": "Softball",
+    "svg": "softball.svg"
+  },
+  {
+    "name": "Soon Arrow",
+    "svg": "soon-arrow.svg"
+  },
+  {
+    "name": "Sos Button",
+    "svg": "sos-button.svg"
+  },
+  {
+    "name": "Spade Suit",
+    "svg": "spade-suit.svg"
+  },
+  {
+    "name": "Spaghetti",
+    "svg": "spaghetti.svg"
+  },
+  {
+    "name": "Sparkle",
+    "svg": "sparkle.svg"
+  },
+  {
+    "name": "Sparkler",
+    "svg": "sparkler.svg"
+  },
+  {
+    "name": "Sparkles",
+    "svg": "sparkles.svg"
+  },
+  {
+    "name": "Sparkling Heart",
+    "svg": "sparkling-heart.svg"
+  },
+  {
+    "name": "Speak no Evil Monkey",
+    "svg": "speak-no-evil-monkey.svg"
+  },
+  {
+    "name": "Speaker High Volume",
+    "svg": "speaker-high-volume.svg"
+  },
+  {
+    "name": "Speaker Low Volume",
+    "svg": "speaker-low-volume.svg"
+  },
+  {
+    "name": "Speaker Medium Volume",
+    "svg": "speaker-medium-volume.svg"
+  },
+  {
+    "name": "Speaking Head",
+    "svg": "speaking-head.svg"
+  },
+  {
+    "name": "Speech Balloon",
+    "svg": "speech-balloon.svg"
+  },
+  {
+    "name": "Speedboat",
+    "svg": "speedboat.svg"
+  },
+  {
+    "name": "Spider Web",
+    "svg": "spider-web.svg"
+  },
+  {
+    "name": "Spider",
+    "svg": "spider.svg"
+  },
+  {
+    "name": "Spiral Calendar",
+    "svg": "spiral-calendar.svg"
+  },
+  {
+    "name": "Spiral Notepad",
+    "svg": "spiral-notepad.svg"
+  },
+  {
+    "name": "Spiral Shell",
+    "svg": "spiral-shell.svg"
+  },
+  {
+    "name": "Sponge",
+    "svg": "sponge.svg"
+  },
+  {
+    "name": "Spoon",
+    "svg": "spoon.svg"
+  },
+  {
+    "name": "Sport Utility Vehicle",
+    "svg": "sport-utility-vehicle.svg"
+  },
+  {
+    "name": "Sports Medal",
+    "svg": "sports-medal.svg"
+  },
+  {
+    "name": "Spouting Whale",
+    "svg": "spouting-whale.svg"
+  },
+  {
+    "name": "Squid",
+    "svg": "squid.svg"
+  },
+  {
+    "name": "Squinting Face With Tongue",
+    "svg": "squinting-face-with-tongue.svg"
+  },
+  {
+    "name": "Stadium",
+    "svg": "stadium.svg"
+  },
+  {
+    "name": "Star And Crescent",
+    "svg": "star-and-crescent.svg"
+  },
+  {
+    "name": "Star of David",
+    "svg": "star-of-david.svg"
+  },
+  {
+    "name": "Star Struck",
+    "svg": "star-struck.svg"
+  },
+  {
+    "name": "Star",
+    "svg": "star.svg"
+  },
+  {
+    "name": "Station",
+    "svg": "station.svg"
+  },
+  {
+    "name": "Statue of Liberty",
+    "svg": "statue-of-liberty.svg"
+  },
+  {
+    "name": "Steaming Bowl",
+    "svg": "steaming-bowl.svg"
+  },
+  {
+    "name": "Stethoscope",
+    "svg": "stethoscope.svg"
+  },
+  {
+    "name": "Stop Button",
+    "svg": "stop-button.svg"
+  },
+  {
+    "name": "Stop Sign",
+    "svg": "stop-sign.svg"
+  },
+  {
+    "name": "Stopwatch",
+    "svg": "stopwatch.svg"
+  },
+  {
+    "name": "Straight Ruler",
+    "svg": "straight-ruler.svg"
+  },
+  {
+    "name": "Strawberry",
+    "svg": "strawberry.svg"
+  },
+  {
+    "name": "Student",
+    "svg": "student.svg"
+  },
+  {
+    "name": "Studio Microphone",
+    "svg": "studio-microphone.svg"
+  },
+  {
+    "name": "Stuffed Flatbread",
+    "svg": "stuffed-flatbread.svg"
+  },
+  {
+    "name": "Sun Behind Cloud",
+    "svg": "sun-behind-cloud.svg"
+  },
+  {
+    "name": "Sun Behind Large Cloud",
+    "svg": "sun-behind-large-cloud.svg"
+  },
+  {
+    "name": "Sun Behind Rain Cloud",
+    "svg": "sun-behind-rain-cloud.svg"
+  },
+  {
+    "name": "Sun Behind Small Cloud",
+    "svg": "sun-behind-small-cloud.svg"
+  },
+  {
+    "name": "Sun With Face",
+    "svg": "sun-with-face.svg"
+  },
+  {
+    "name": "Sun",
+    "svg": "sun.svg"
+  },
+  {
+    "name": "Sunflower",
+    "svg": "sunflower.svg"
+  },
+  {
+    "name": "Sunglasses",
+    "svg": "sunglasses.svg"
+  },
+  {
+    "name": "Sunrise Over Mountains",
+    "svg": "sunrise-over-mountains.svg"
+  },
+  {
+    "name": "Sunrise",
+    "svg": "sunrise.svg"
+  },
+  {
+    "name": "Sunset",
+    "svg": "sunset.svg"
+  },
+  {
+    "name": "Sushi",
+    "svg": "sushi.svg"
+  },
+  {
+    "name": "Suspension Railway",
+    "svg": "suspension-railway.svg"
+  },
+  {
+    "name": "Swan",
+    "svg": "swan.svg"
+  },
+  {
+    "name": "Sweat Droplets",
+    "svg": "sweat-droplets.svg"
+  },
+  {
+    "name": "Synagogue",
+    "svg": "synagogue.svg"
+  },
+  {
+    "name": "Syringe",
+    "svg": "syringe.svg"
+  },
+  {
+    "name": "T Rex",
+    "svg": "t-rex.svg"
+  },
+  {
+    "name": "T Shirt",
+    "svg": "t-shirt.svg"
+  },
+  {
+    "name": "Taco",
+    "svg": "taco.svg"
+  },
+  {
+    "name": "Takeout Box",
+    "svg": "takeout-box.svg"
+  },
+  {
+    "name": "Tamale",
+    "svg": "tamale.svg"
+  },
+  {
+    "name": "Tanabata Tree",
+    "svg": "tanabata-tree.svg"
+  },
+  {
+    "name": "Tangerine",
+    "svg": "tangerine.svg"
+  },
+  {
+    "name": "Taurus",
+    "svg": "taurus.svg"
+  },
+  {
+    "name": "Taxi",
+    "svg": "taxi.svg"
+  },
+  {
+    "name": "Teacher",
+    "svg": "teacher.svg"
+  },
+  {
+    "name": "Teacup Without Handle",
+    "svg": "teacup-without-handle.svg"
+  },
+  {
+    "name": "Teapot",
+    "svg": "teapot.svg"
+  },
+  {
+    "name": "Tear Off Calendar",
+    "svg": "tear-off-calendar.svg"
+  },
+  {
+    "name": "Teddy Bear",
+    "svg": "teddy-bear.svg"
+  },
+  {
+    "name": "Telephone Receiver",
+    "svg": "telephone-receiver.svg"
+  },
+  {
+    "name": "Telephone",
+    "svg": "telephone.svg"
+  },
+  {
+    "name": "Telescope",
+    "svg": "telescope.svg"
+  },
+  {
+    "name": "Television",
+    "svg": "television.svg"
+  },
+  {
+    "name": "Ten Oclock",
+    "svg": "ten-oclock.svg"
+  },
+  {
+    "name": "Ten Thirty",
+    "svg": "ten-thirty.svg"
+  },
+  {
+    "name": "Tennis",
+    "svg": "tennis.svg"
+  },
+  {
+    "name": "Tent",
+    "svg": "tent.svg"
+  },
+  {
+    "name": "Test Tube",
+    "svg": "test-tube.svg"
+  },
+  {
+    "name": "Thermometer",
+    "svg": "thermometer.svg"
+  },
+  {
+    "name": "Thinking Face",
+    "svg": "thinking-face.svg"
+  },
+  {
+    "name": "Thong Sandal",
+    "svg": "thong-sandal.svg"
+  },
+  {
+    "name": "Thought Balloon",
+    "svg": "thought-balloon.svg"
+  },
+  {
+    "name": "Thread",
+    "svg": "thread.svg"
+  },
+  {
+    "name": "Three Oclock",
+    "svg": "three-oclock.svg"
+  },
+  {
+    "name": "Three Thirty",
+    "svg": "three-thirty.svg"
+  },
+  {
+    "name": "Thumbs Down",
+    "svg": "thumbs-down.svg"
+  },
+  {
+    "name": "Thumbs up",
+    "svg": "thumbs-up.svg"
+  },
+  {
+    "name": "Ticket",
+    "svg": "ticket.svg"
+  },
+  {
+    "name": "Tiger Face",
+    "svg": "tiger-face.svg"
+  },
+  {
+    "name": "Tiger",
+    "svg": "tiger.svg"
+  },
+  {
+    "name": "Timer Clock",
+    "svg": "timer-clock.svg"
+  },
+  {
+    "name": "Tired Face",
+    "svg": "tired-face.svg"
+  },
+  {
+    "name": "Toilet",
+    "svg": "toilet.svg"
+  },
+  {
+    "name": "Tokyo Tower",
+    "svg": "tokyo-tower.svg"
+  },
+  {
+    "name": "Tomato",
+    "svg": "tomato.svg"
+  },
+  {
+    "name": "Tongue",
+    "svg": "tongue.svg"
+  },
+  {
+    "name": "Toolbox",
+    "svg": "toolbox.svg"
+  },
+  {
+    "name": "Tooth",
+    "svg": "tooth.svg"
+  },
+  {
+    "name": "Toothbrush",
+    "svg": "toothbrush.svg"
+  },
+  {
+    "name": "Top Arrow",
+    "svg": "top-arrow.svg"
+  },
+  {
+    "name": "Top Hat",
+    "svg": "top-hat.svg"
+  },
+  {
+    "name": "Tornado",
+    "svg": "tornado.svg"
+  },
+  {
+    "name": "Trackball",
+    "svg": "trackball.svg"
+  },
+  {
+    "name": "Tractor",
+    "svg": "tractor.svg"
+  },
+  {
+    "name": "Trade Mark",
+    "svg": "trade-mark.svg"
+  },
+  {
+    "name": "Train",
+    "svg": "train.svg"
+  },
+  {
+    "name": "Tram Car",
+    "svg": "tram-car.svg"
+  },
+  {
+    "name": "Tram",
+    "svg": "tram.svg"
+  },
+  {
+    "name": "Triangular Flag",
+    "svg": "triangular-flag.svg"
+  },
+  {
+    "name": "Triangular Ruler",
+    "svg": "triangular-ruler.svg"
+  },
+  {
+    "name": "Trident Emblem",
+    "svg": "trident-emblem.svg"
+  },
+  {
+    "name": "Troll",
+    "svg": "troll.svg"
+  },
+  {
+    "name": "Trolleybus",
+    "svg": "trolleybus.svg"
+  },
+  {
+    "name": "Trophy",
+    "svg": "trophy.svg"
+  },
+  {
+    "name": "Tropical Drink",
+    "svg": "tropical-drink.svg"
+  },
+  {
+    "name": "Tropical Fish",
+    "svg": "tropical-fish.svg"
+  },
+  {
+    "name": "Trumpet",
+    "svg": "trumpet.svg"
+  },
+  {
+    "name": "Tulip",
+    "svg": "tulip.svg"
+  },
+  {
+    "name": "Tumbler Glass",
+    "svg": "tumbler-glass.svg"
+  },
+  {
+    "name": "Turkey",
+    "svg": "turkey.svg"
+  },
+  {
+    "name": "Turtle",
+    "svg": "turtle.svg"
+  },
+  {
+    "name": "Twelve Oclock",
+    "svg": "twelve-oclock.svg"
+  },
+  {
+    "name": "Twelve Thirty",
+    "svg": "twelve-thirty.svg"
+  },
+  {
+    "name": "Two Hearts",
+    "svg": "two-hearts.svg"
+  },
+  {
+    "name": "Two Hump Camel",
+    "svg": "two-hump-camel.svg"
+  },
+  {
+    "name": "Two Oclock",
+    "svg": "two-oclock.svg"
+  },
+  {
+    "name": "Two Thirty",
+    "svg": "two-thirty.svg"
+  },
+  {
+    "name": "Umbrella on Ground",
+    "svg": "umbrella-on-ground.svg"
+  },
+  {
+    "name": "Umbrella With Rain Drops",
+    "svg": "umbrella-with-rain-drops.svg"
+  },
+  {
+    "name": "Umbrella",
+    "svg": "umbrella.svg"
+  },
+  {
+    "name": "Unamused Face",
+    "svg": "unamused-face.svg"
+  },
+  {
+    "name": "Unicorn",
+    "svg": "unicorn.svg"
+  },
+  {
+    "name": "Unlocked",
+    "svg": "unlocked.svg"
+  },
+  {
+    "name": "Up Arrow",
+    "svg": "up-arrow.svg"
+  },
+  {
+    "name": "Up Button",
+    "svg": "up-button.svg"
+  },
+  {
+    "name": "Up Down Arrow",
+    "svg": "up-down-arrow.svg"
+  },
+  {
+    "name": "Up Left Arrow",
+    "svg": "up-left-arrow.svg"
+  },
+  {
+    "name": "Up Right Arrow",
+    "svg": "up-right-arrow.svg"
+  },
+  {
+    "name": "Upside Down Face",
+    "svg": "upside-down-face.svg"
+  },
+  {
+    "name": "Upwards Button",
+    "svg": "upwards-button.svg"
+  },
+  {
+    "name": "Vertical Traffic Light",
+    "svg": "vertical-traffic-light.svg"
+  },
+  {
+    "name": "Vibration Mode",
+    "svg": "vibration-mode.svg"
+  },
+  {
+    "name": "Victory Hand",
+    "svg": "victory-hand.svg"
+  },
+  {
+    "name": "Video Camera",
+    "svg": "video-camera.svg"
+  },
+  {
+    "name": "Videocassette",
+    "svg": "videocassette.svg"
+  },
+  {
+    "name": "Violin",
+    "svg": "violin.svg"
+  },
+  {
+    "name": "Virgo",
+    "svg": "virgo.svg"
+  },
+  {
+    "name": "Volcano",
+    "svg": "volcano.svg"
+  },
+  {
+    "name": "Volleyball",
+    "svg": "volleyball.svg"
+  },
+  {
+    "name": "Vs Button",
+    "svg": "vs-button.svg"
+  },
+  {
+    "name": "Vulcan Salute",
+    "svg": "vulcan-salute.svg"
+  },
+  {
+    "name": "Waffle",
+    "svg": "waffle.svg"
+  },
+  {
+    "name": "Waning Crescent Moon",
+    "svg": "waning-crescent-moon.svg"
+  },
+  {
+    "name": "Waning Gibbous Moon",
+    "svg": "waning-gibbous-moon.svg"
+  },
+  {
+    "name": "Warning",
+    "svg": "warning.svg"
+  },
+  {
+    "name": "Wastebasket",
+    "svg": "wastebasket.svg"
+  },
+  {
+    "name": "Watch",
+    "svg": "watch.svg"
+  },
+  {
+    "name": "Water Buffalo",
+    "svg": "water-buffalo.svg"
+  },
+  {
+    "name": "Water Closet",
+    "svg": "water-closet.svg"
+  },
+  {
+    "name": "Water Pistol",
+    "svg": "water-pistol.svg"
+  },
+  {
+    "name": "Water Wave",
+    "svg": "water-wave.svg"
+  },
+  {
+    "name": "Watermelon",
+    "svg": "watermelon.svg"
+  },
+  {
+    "name": "Waving Hand",
+    "svg": "waving-hand.svg"
+  },
+  {
+    "name": "Wavy Dash",
+    "svg": "wavy-dash.svg"
+  },
+  {
+    "name": "Waxing Crescent Moon",
+    "svg": "waxing-crescent-moon.svg"
+  },
+  {
+    "name": "Waxing Gibbous Moon",
+    "svg": "waxing-gibbous-moon.svg"
+  },
+  {
+    "name": "Weary Cat",
+    "svg": "weary-cat.svg"
+  },
+  {
+    "name": "Weary Face",
+    "svg": "weary-face.svg"
+  },
+  {
+    "name": "Wedding",
+    "svg": "wedding.svg"
+  },
+  {
+    "name": "Whale",
+    "svg": "whale.svg"
+  },
+  {
+    "name": "Wheel of Dharma",
+    "svg": "wheel-of-dharma.svg"
+  },
+  {
+    "name": "Wheel",
+    "svg": "wheel.svg"
+  },
+  {
+    "name": "Wheelchair Symbol",
+    "svg": "wheelchair-symbol.svg"
+  },
+  {
+    "name": "White Cane",
+    "svg": "white-cane.svg"
+  },
+  {
+    "name": "White Circle",
+    "svg": "white-circle.svg"
+  },
+  {
+    "name": "White Exclamation Mark",
+    "svg": "white-exclamation-mark.svg"
+  },
+  {
+    "name": "White Flag",
+    "svg": "white-flag.svg"
+  },
+  {
+    "name": "White Flower",
+    "svg": "white-flower.svg"
+  },
+  {
+    "name": "White Heart",
+    "svg": "white-heart.svg"
+  },
+  {
+    "name": "White Large Square",
+    "svg": "white-large-square.svg"
+  },
+  {
+    "name": "White Medium Small Square",
+    "svg": "white-medium-small-square.svg"
+  },
+  {
+    "name": "White Medium Square",
+    "svg": "white-medium-square.svg"
+  },
+  {
+    "name": "White Question Mark",
+    "svg": "white-question-mark.svg"
+  },
+  {
+    "name": "White Small Square",
+    "svg": "white-small-square.svg"
+  },
+  {
+    "name": "White Square Button",
+    "svg": "white-square-button.svg"
+  },
+  {
+    "name": "Wilted Flower",
+    "svg": "wilted-flower.svg"
+  },
+  {
+    "name": "Wind Chime",
+    "svg": "wind-chime.svg"
+  },
+  {
+    "name": "Wind Face",
+    "svg": "wind-face.svg"
+  },
+  {
+    "name": "Window",
+    "svg": "window.svg"
+  },
+  {
+    "name": "Wine Glass",
+    "svg": "wine-glass.svg"
+  },
+  {
+    "name": "Winking Face With Tongue",
+    "svg": "winking-face-with-tongue.svg"
+  },
+  {
+    "name": "Winking Face",
+    "svg": "winking-face.svg"
+  },
+  {
+    "name": "Wolf",
+    "svg": "wolf.svg"
+  },
+  {
+    "name": "Woman Artist",
+    "svg": "woman-artist.svg"
+  },
+  {
+    "name": "Woman Astronaut",
+    "svg": "woman-astronaut.svg"
+  },
+  {
+    "name": "Woman Bald",
+    "svg": "woman-bald.svg"
+  },
+  {
+    "name": "Woman Biking",
+    "svg": "woman-biking.svg"
+  },
+  {
+    "name": "Woman Blonde Hair",
+    "svg": "woman-blonde-hair.svg"
+  },
+  {
+    "name": "Woman Bouncing Ball",
+    "svg": "woman-bouncing-ball.svg"
+  },
+  {
+    "name": "Woman Bowing",
+    "svg": "woman-bowing.svg"
+  },
+  {
+    "name": "Woman Cartwheeling",
+    "svg": "woman-cartwheeling.svg"
+  },
+  {
+    "name": "Woman Climbing",
+    "svg": "woman-climbing.svg"
+  },
+  {
+    "name": "Woman Construction Worker",
+    "svg": "woman-construction-worker.svg"
+  },
+  {
+    "name": "Woman Cook",
+    "svg": "woman-cook.svg"
+  },
+  {
+    "name": "Woman Curly Hair",
+    "svg": "woman-curly-hair.svg"
+  },
+  {
+    "name": "Woman Dancing",
+    "svg": "woman-dancing.svg"
+  },
+  {
+    "name": "Woman Deaf",
+    "svg": "woman-deaf.svg"
+  },
+  {
+    "name": "Woman Detective",
+    "svg": "woman-detective.svg"
+  },
+  {
+    "name": "Woman Elf",
+    "svg": "woman-elf.svg"
+  },
+  {
+    "name": "Woman Facepalming",
+    "svg": "woman-facepalming.svg"
+  },
+  {
+    "name": "Woman Factory Worker",
+    "svg": "woman-factory-worker.svg"
+  },
+  {
+    "name": "Woman Fairy",
+    "svg": "woman-fairy.svg"
+  },
+  {
+    "name": "Woman Farmer",
+    "svg": "woman-farmer.svg"
+  },
+  {
+    "name": "Woman Feeding Baby",
+    "svg": "woman-feeding-baby.svg"
+  },
+  {
+    "name": "Woman Firefighter",
+    "svg": "woman-firefighter.svg"
+  },
+  {
+    "name": "Woman Frowning",
+    "svg": "woman-frowning.svg"
+  },
+  {
+    "name": "Woman Genie",
+    "svg": "woman-genie.svg"
+  },
+  {
+    "name": "Woman Gesturing no",
+    "svg": "woman-gesturing-no.svg"
+  },
+  {
+    "name": "Woman Gesturing ok",
+    "svg": "woman-gesturing-ok.svg"
+  },
+  {
+    "name": "Woman Getting Haircut",
+    "svg": "woman-getting-haircut.svg"
+  },
+  {
+    "name": "Woman Getting Massage",
+    "svg": "woman-getting-massage.svg"
+  },
+  {
+    "name": "Woman Golfing",
+    "svg": "woman-golfing.svg"
+  },
+  {
+    "name": "Woman Guard",
+    "svg": "woman-guard.svg"
+  },
+  {
+    "name": "Woman Health Worker",
+    "svg": "woman-health-worker.svg"
+  },
+  {
+    "name": "Woman in Lotus Position",
+    "svg": "woman-in-lotus-position.svg"
+  },
+  {
+    "name": "Woman in Manual Wheelchair",
+    "svg": "woman-in-manual-wheelchair.svg"
+  },
+  {
+    "name": "Woman in Motorized Wheelchair",
+    "svg": "woman-in-motorized-wheelchair.svg"
+  },
+  {
+    "name": "Woman in Steamy Room",
+    "svg": "woman-in-steamy-room.svg"
+  },
+  {
+    "name": "Woman Judge",
+    "svg": "woman-judge.svg"
+  },
+  {
+    "name": "Woman Juggling",
+    "svg": "woman-juggling.svg"
+  },
+  {
+    "name": "Woman Kneeling",
+    "svg": "woman-kneeling.svg"
+  },
+  {
+    "name": "Woman Lifting Weights",
+    "svg": "woman-lifting-weights.svg"
+  },
+  {
+    "name": "Woman Mage",
+    "svg": "woman-mage.svg"
+  },
+  {
+    "name": "Woman Mechanic",
+    "svg": "woman-mechanic.svg"
+  },
+  {
+    "name": "Woman Merpeople",
+    "svg": "woman-merpeople.svg"
+  },
+  {
+    "name": "Woman Mountain Biking",
+    "svg": "woman-mountain-biking.svg"
+  },
+  {
+    "name": "Woman Office Worker",
+    "svg": "woman-office-worker.svg"
+  },
+  {
+    "name": "Woman Pilot",
+    "svg": "woman-pilot.svg"
+  },
+  {
+    "name": "Woman Playing Handball",
+    "svg": "woman-playing-handball.svg"
+  },
+  {
+    "name": "Woman Playing Water Polo",
+    "svg": "woman-playing-water-polo.svg"
+  },
+  {
+    "name": "Woman Police Officer",
+    "svg": "woman-police-officer.svg"
+  },
+  {
+    "name": "Woman Pouting",
+    "svg": "woman-pouting.svg"
+  },
+  {
+    "name": "Woman Raising Hand",
+    "svg": "woman-raising-hand.svg"
+  },
+  {
+    "name": "Woman Red Hair",
+    "svg": "woman-red-hair.svg"
+  },
+  {
+    "name": "Woman Rowing Boat",
+    "svg": "woman-rowing-boat.svg"
+  },
+  {
+    "name": "Woman Running",
+    "svg": "woman-running.svg"
+  },
+  {
+    "name": "Woman Scientist",
+    "svg": "woman-scientist.svg"
+  },
+  {
+    "name": "Woman Shrugging",
+    "svg": "woman-shrugging.svg"
+  },
+  {
+    "name": "Woman Singer",
+    "svg": "woman-singer.svg"
+  },
+  {
+    "name": "Woman Standing",
+    "svg": "woman-standing.svg"
+  },
+  {
+    "name": "Woman Student",
+    "svg": "woman-student.svg"
+  },
+  {
+    "name": "Woman Superhero",
+    "svg": "woman-superhero.svg"
+  },
+  {
+    "name": "Woman Supervillain",
+    "svg": "woman-supervillain.svg"
+  },
+  {
+    "name": "Woman Surfing",
+    "svg": "woman-surfing.svg"
+  },
+  {
+    "name": "Woman Swimming",
+    "svg": "woman-swimming.svg"
+  },
+  {
+    "name": "Woman Teacher",
+    "svg": "woman-teacher.svg"
+  },
+  {
+    "name": "Woman Tipping Hand",
+    "svg": "woman-tipping-hand.svg"
+  },
+  {
+    "name": "Woman Vampire",
+    "svg": "woman-vampire.svg"
+  },
+  {
+    "name": "Woman Walking",
+    "svg": "woman-walking.svg"
+  },
+  {
+    "name": "Woman White Hair",
+    "svg": "woman-white-hair.svg"
+  },
+  {
+    "name": "Woman With Bunny Ears",
+    "svg": "woman-with-bunny-ears.svg"
+  },
+  {
+    "name": "Woman With Headscarf",
+    "svg": "woman-with-headscarf.svg"
+  },
+  {
+    "name": "Woman With Veil",
+    "svg": "woman-with-veil.svg"
+  },
+  {
+    "name": "Woman With White Cane",
+    "svg": "woman-with-white-cane.svg"
+  },
+  {
+    "name": "Woman Wrestling",
+    "svg": "woman-wrestling.svg"
+  },
+  {
+    "name": "Woman Zombie",
+    "svg": "woman-zombie.svg"
+  },
+  {
+    "name": "Woman",
+    "svg": "woman.svg"
+  },
+  {
+    "name": "Womans Boot",
+    "svg": "womans-boot.svg"
+  },
+  {
+    "name": "Womans Clothes",
+    "svg": "womans-clothes.svg"
+  },
+  {
+    "name": "Womans Hat",
+    "svg": "womans-hat.svg"
+  },
+  {
+    "name": "Womans Sandal",
+    "svg": "womans-sandal.svg"
+  },
+  {
+    "name": "Womens Room",
+    "svg": "womens-room.svg"
+  },
+  {
+    "name": "Wood",
+    "svg": "wood.svg"
+  },
+  {
+    "name": "Woozy Face",
+    "svg": "woozy-face.svg"
+  },
+  {
+    "name": "World Map",
+    "svg": "world-map.svg"
+  },
+  {
+    "name": "Worm",
+    "svg": "worm.svg"
+  },
+  {
+    "name": "Worried Face",
+    "svg": "worried-face.svg"
+  },
+  {
+    "name": "Wrapped Gift",
+    "svg": "wrapped-gift.svg"
+  },
+  {
+    "name": "Wrench",
+    "svg": "wrench.svg"
+  },
+  {
+    "name": "Writing Hand",
+    "svg": "writing-hand.svg"
+  },
+  {
+    "name": "X Ray",
+    "svg": "x-ray.svg"
+  },
+  {
+    "name": "Yarn",
+    "svg": "yarn.svg"
+  },
+  {
+    "name": "Yawning Face",
+    "svg": "yawning-face.svg"
+  },
+  {
+    "name": "Yellow Circle",
+    "svg": "yellow-circle.svg"
+  },
+  {
+    "name": "Yellow Heart",
+    "svg": "yellow-heart.svg"
+  },
+  {
+    "name": "Yellow Square",
+    "svg": "yellow-square.svg"
+  },
+  {
+    "name": "Yen Banknote",
+    "svg": "yen-banknote.svg"
+  },
+  {
+    "name": "Yin Yang",
+    "svg": "yin-yang.svg"
+  },
+  {
+    "name": "Yo yo",
+    "svg": "yo-yo.svg"
+  },
+  {
+    "name": "Zany Face",
+    "svg": "zany-face.svg"
+  },
+  {
+    "name": "Zebra",
+    "svg": "zebra.svg"
+  },
+  {
+    "name": "Zipper Mouth Face",
+    "svg": "zipper-mouth-face.svg"
+  },
+  {
+    "name": "Zzz",
+    "svg": "zzz.svg"
+  }
+]
