@@ -167,11 +167,11 @@ const buildIndex = async (index: [string, string][]) => {
     false,
   );
 
-  // const index: [string, string][] = [
-  //   ['HighContrast', './high-contrast'],
-  //   ['Flat', './flat'],
-  //   ['Modern', './modern'],
-  // ];
+  const index: [string, string][] = [
+    ['HighContrast', './high-contrast'],
+    ['Flat', './flat'],
+    ['Modern', './modern'],
+  ];
 
-  // await buildIndex(index);
+  await buildIndex(index);
 })();
