@@ -1,6 +1,6 @@
 {
-  "name": "react-fluentui-emoji",
-  "version": "0.0.7",
+  "name": "root",
+  "private": true,
   "description": "React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
   "keywords": [
     "fluentui",
@@ -27,7 +27,21 @@
   "homepage": "https://react-fluentui-emoji.vercel.app/",
   "scripts": {
     "fluentui-emoji:clean:clone": "rimraf private-fluentui-emoji",
+    "fluentui-emoji:clean:svg": "rimraf svg",
+    "fluentui-emoji:clean:icons": "rimraf icons",
+    "fluentui-emoji:clean:build": "rimraf build",
+    "fluentui-emoji:clean:lib": "rimraf lib",
+    "fluentui-emoji:clean:pkg": "rimraf packages/react-fluentui-emoji/lib",
+    "clean": "npm run fluentui-emoji:clean:clone && npm run fluentui-emoji:clean:svg && npm run fluentui-emoji:clean:icons && npm run fluentui-emoji:clean:build && npm run fluentui-emoji:clean:lib && npm run fluentui-emoji:clean:pkg",
     "fluentui-emoji:clone": "npm run fluentui-emoji:clean:clone && tsx script/git-clone.config.ts",
+    "fluentui-emoji:svg": "npm run fluentui-emoji:clean:svg && tsx script/copy-svg.script.ts",
+    "svg:optmize:flat": "svgo --config svgo.config.cjs -f svg/flat -o icons/flat",
+    "svg:optmize:high-contrast": "svgo --config svgo.config.cjs -f svg/high-contrast -o icons/high-contrast",
+    "svg:optmize:modern": "svgo --config svgo.config.cjs -f svg/modern -o icons/modern",
+    "svg:optmize": "npm run fluentui-emoji:clean:icons && npm run svg:optmize:flat && npm run svg:optmize:high-contrast && npm run svg:optmize:modern",
+    "fluentui-emoji:jsx": "NODE_OPTIONS=--max-old-space-size=8192 tsx script/jsx.script.ts",
+    "fluentui-emoji:lib": "npm run fluentui-emoji:clean:lib && NODE_OPTIONS=--max-old-space-size=8192 babel build --out-dir lib --copy-files",
+    "fluentui-emoji:pkg": "npm run fluentui-emoji:clean:pkg && tsx script/copy-lib.script.ts",
     "lint": "biome check ./script",
     "lint:fix": "biome check ./script --fix",
     "fmt": "biome format ./script",
@@ -52,6 +66,7 @@
     "recursive-directory": "1.2.3",
     "rimraf": "6.0.1",
     "svg-to-jsx": "1.0.4",
+    "svgo": "3.3.2",
     "tsx": "4.17.0",
     "typescript": "5.5.4"
   }

@@ -2,6 +2,7 @@
 *.log
 build
 dist
+icons
 private-fluentui-emoji
 lib
 node_modules
