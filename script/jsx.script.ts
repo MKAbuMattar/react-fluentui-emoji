@@ -1,8 +1,8 @@
-import fs from 'fs';
-import fsAsync from 'fs/promises';
-import { JSDOM } from 'jsdom';
+import fsAsync from 'node:fs/promises';
+import fs from 'fs-extra';
+import {JSDOM} from 'jsdom';
+import {type RecursiveDirectory, recursiveDirectory} from 'recursive-directory';
 import svgtojsx from 'svg-to-jsx';
-import { RecursiveDirectory, recursiveDirectory } from 'recursive-directory';
 
 type ObjConfig = {
   name: string;
@@ -12,14 +12,25 @@ type ObjConfig = {
   dirname: string;
 };
 
+const root = process.cwd();
+
 const generateSvgComponent = async (
   rootDir: string,
   outDir: string,
   prefix: string,
   isHighContrast: boolean,
 ) => {
-  if (fs.existsSync(`${__dirname}/../../build/${outDir}`)) {
-    fs.rmSync(`${__dirname}/../../build/${outDir}`, { recursive: true });
+  const buildDir = `${root}/build/${outDir}`;
+  const iconsDir = `${buildDir}/icons`;
+
+  // Ensure the build directory exists
+  await fs.ensureDir(buildDir);
+  await fs.ensureDir(iconsDir);
+
+  // Remove the existing directory if it exists
+  if (await fs.pathExists(iconsDir)) {
+    await fs.rm(iconsDir, {recursive: true, force: true});
+    await fs.ensureDir(iconsDir);
   }
 
   const index: [string, string][] = [];
@@ -44,40 +55,32 @@ const generateSvgComponent = async (
     });
   });
 
-  await fsAsync.mkdir(`${__dirname}/../../build/${outDir}`);
-  await fsAsync.mkdir(`${__dirname}/../../build/${outDir}/icons`);
-
   await Promise.all(
     objConfig.map(async (entry) => {
       const name = `${entry.name}`;
+      const icon = await fsAsync.readFile(entry.fullpath, 'utf8');
+      const {document} = new JSDOM(icon).window;
 
-      const icon = await fsAsync.readFile(
-        `${__dirname}/../../${rootDir}/${entry.filename}`,
-      );
-
-      const { document } = await new JSDOM(icon).window;
-
-      const dir = `${__dirname}/../../build/${outDir}/icons`;
-
+      const dir = `${buildDir}/icons`;
       const reactName = `${prefix}${name}`;
 
       index.push([reactName, `./icons/${reactName}`]);
 
-      const svg = document.getElementsByTagName('svg')[0];
+      const svg = document.querySelector('svg');
+      if (!svg) return; // Skip if no SVG element is found
+
       svg.removeAttribute('width');
       svg.removeAttribute('height');
       svg.removeAttribute('xmlns:xlink');
 
       if (isHighContrast) {
         svg.removeAttribute('fill');
-        const elements = svg.getElementsByTagName('*');
-        for (let i = 0; i < elements.length; i++) {
-          const element = elements[i] as SVGElement;
+        svg.querySelectorAll('*').forEach((element: SVGElement) => {
           element.removeAttribute('fill');
           element.style.removeProperty('fill');
           element.style.removeProperty('fill-rule');
           element.style.removeProperty('fill-opacity');
-        }
+        });
       }
 
       const svgTemplate = `const React = require("react");
@@ -113,63 +116,59 @@ declare const ${reactName}: React.FunctionComponent<Props>;
 export default ${reactName};`;
 
       await fsAsync.writeFile(`${dir}/${reactName}.d.ts`, definitions);
-
-      await fsAsync.writeFile(
-        `${__dirname}/../../build/${outDir}/index.js`,
-        index.map((e) => `const ${e[0]} = require("${e[1]}")`).join(';\n') +
-          ';\n' +
-          `module.exports = {${index.map((e) => e[0]).join(',')}}`,
-      );
-      await fsAsync.writeFile(
-        `${__dirname}/../../build/${outDir}/index.d.ts`,
-        index
-          .map((e) => `export { default as ${e[0]} } from "${e[1]}"`)
-          .join(';\n'),
-      );
     }),
+  );
+
+  await fsAsync.writeFile(
+    `${buildDir}/index.js`,
+    // biome-ignore lint/style/useTemplate: <explanation>
+    index
+      .map(([name, path]) => `const ${name} = require("${path}")`)
+      .join(';\n') +
+      ';\n' +
+      `module.exports = {${index.map(([name]) => name).join(',')}}`,
+  );
+
+  await fsAsync.writeFile(
+    `${buildDir}/index.d.ts`,
+    index
+      .map(([name, path]) => `export { default as ${name} } from "${path}"`)
+      .join(';\n'),
   );
 };
 
 const buildIndex = async (index: [string, string][]) => {
   await fsAsync.writeFile(
-    `${__dirname}/../../build/index.js`,
-    index.map((e) => `const ${e[0]} = require("${e[1]}")`).join(';\n') +
-      ';\n' +
-      `module.exports = {${index.map((e) => e[0]).join(',')}}`,
-  );
-  await fsAsync.writeFile(
-    `${__dirname}/../../build/index.d.ts`,
+    `${root}/build/index.js`,
+    // biome-ignore lint/style/useTemplate: <explanation>
     index
-      .map((e) => `export { default as ${e[0]} } from "${e[1]}"`)
+      .map(([name, path]) => `const ${name} = require("${path}")`)
+      .join(';\n') +
+      ';\n' +
+      `module.exports = {${index.map(([name]) => name).join(',')}}`,
+  );
+
+  await fsAsync.writeFile(
+    `${root}/build/index.d.ts`,
+    index
+      .map(([name, path]) => `export { default as ${name} } from "${path}"`)
       .join(';\n'),
   );
 };
 
 (async () => {
+  await generateSvgComponent('icons/flat', 'flat', 'IconF', false);
   await generateSvgComponent(
-    'fluentui-emoji/icons/high-contrast',
+    'icons/high-contrast',
     'high-contrast',
     'IconHC',
     true,
   );
-
-  await generateSvgComponent(
-    'fluentui-emoji/icons/flat',
-    'flat',
-    'IconF',
-    false,
-  );
-
-  await generateSvgComponent(
-    'fluentui-emoji/icons/modern',
-    'modern',
-    'IconM',
-    false,
-  );
+  await generateSvgComponent('icons/modern', 'modern', 'IconM', false);
 
   const index: [string, string][] = [
-    ['HighContrast', './high-contrast'],
     ['Flat', './flat'],
+    ['HighContrast', './high-contrast'],
     ['Modern', './modern'],
   ];
 

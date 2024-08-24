@@ -1,0 +1,83 @@
+{
+  "name": "react-fluentui-emoji",
+  "version": "1.0.0",
+  "description": "React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
+  "keywords": [
+    "fluentui",
+    "emoji",
+    "fluentui-emoji",
+    "icons",
+    "svg",
+    "react",
+    "typescript"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mohammad Abu Mattar",
+    "email": "mohammad.khaled@outlook.com",
+    "url": "https://mkabumattar.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKAbuMattar/react-fluentui-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MKAbuMattar/react-fluentui-emoji/issues"
+  },
+  "homepage": "https://react-fluentui-emoji.vercel.app/",
+  "scripts": {},
+  "peerDependencies": {
+    "react": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "require": "./lib/index.js",
+      "import": "./lib/index.js",
+      "types": "./index.d.ts"
+    },
+    "./lib/high-contrast": {
+      "require": "./lib/high-contrast/index.js",
+      "import": "./lib/high-contrast/index.js",
+      "types": "./lib/high-contrast/index.d.ts"
+    },
+    "./lib/high-contrast/icons/*": {
+      "require": "./lib/high-contrast/icons/*.js",
+      "import": "./lib/high-contrast/icons/*.js",
+      "types": "./lib/high-contrast/icons/*.d.ts"
+    },
+    "./lib/flat": {
+      "require": "./lib/flat/index.js",
+      "import": "./lib/flat/index.js",
+      "types": "./lib/flat/index.d.ts"
+    },
+    "./lib/flat/icons/*": {
+      "require": "./lib/flat/icons/*.js",
+      "import": "./lib/flat/icons/*.js",
+      "types": "./lib/flat/icons/*.d.ts"
+    },
+    "./lib/modern": {
+      "require": "./lib/modern/index.js",
+      "import": "./lib/modern/index.js",
+      "types": "./lib/modern/index.d.ts"
+    },
+    "./lib/modern/icons/*": {
+      "require": "./lib/modern/icons/*.js",
+      "import": "./lib/modern/icons/*.js",
+      "types": "./lib/modern/icons/*.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "/lib",
+    "/index.d.ts"
+  ],
+  "support": {
+    "backing": {
+      "npm-funding": true
+    }
+  }
+}

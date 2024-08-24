@@ -1,6 +1,6 @@
 {
   "name": "fluentui-emoji-docs",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,7 +16,6 @@
     "next-seo": "5.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-fluentui-emoji": "0.0.7",
     "react-pro-sidebar": "0.7.1",
     "styled-components": "5.3.5",
     "uuid": "8.3.2"

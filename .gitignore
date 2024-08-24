@@ -2,7 +2,8 @@
 *.log
 build
 dist
-fluentui-emoji
+icons
+private-fluentui-emoji
 lib
 node_modules
 src/config/build.config.json

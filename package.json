@@ -1,6 +1,6 @@
 {
-  "name": "react-fluentui-emoji",
-  "version": "0.0.7",
+  "name": "root",
+  "private": true,
   "description": "React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
   "keywords": [
     "fluentui",
@@ -26,100 +26,48 @@
   },
   "homepage": "https://react-fluentui-emoji.vercel.app/",
   "scripts": {
-    "lint:fix": "eslint --ignore-path .eslintignore \"src/**/*.ts\" --fix",
-    "lint:check": "eslint --ignore-path .eslintignore \"src/**/*.ts\"",
-    "prettier:fix": "prettier -w ./src --ignore-unknown --no-error-on-unmatched-pattern",
-    "prettier:check": "prettier --check ./src --no-error-on-unmatched-pattern",
-    "check": "yarn lint:check && yarn prettier:check",
-    "fix": "yarn lint:fix && yarn prettier:fix",
-    "clean:fluentui-emoji": "rm -rf fluentui-emoji",
-    "clean:lib": "rm -rf lib",
-    "build:config:clone": "yarn clean:fluentui-emoji && node -r esbuild-runner/register src/config/gitclone.config.ts",
-    "build:script:jsx": "node -r esbuild-runner/register src/script/jsx.script.ts",
-    "build:lib": "yarn clean:lib && babel build --out-dir lib --copy-files",
-    "build": "yarn build:script:jsx && yarn build:lib",
-    "publish:lib:latest": "npm publish",
-    "publish:lib:beta": "npm publish --tag beta",
-    "publish:lib:canary": "npm publish --tag canary"
+    "fluentui-emoji:clean:clone": "rimraf private-fluentui-emoji",
+    "fluentui-emoji:clean:svg": "rimraf svg",
+    "fluentui-emoji:clean:icons": "rimraf icons",
+    "fluentui-emoji:clean:build": "rimraf build",
+    "fluentui-emoji:clean:lib": "rimraf lib",
+    "fluentui-emoji:clean:pkg": "rimraf packages/react-fluentui-emoji/lib",
+    "clean": "npm run fluentui-emoji:clean:clone && npm run fluentui-emoji:clean:svg && npm run fluentui-emoji:clean:icons && npm run fluentui-emoji:clean:build && npm run fluentui-emoji:clean:lib && npm run fluentui-emoji:clean:pkg",
+    "fluentui-emoji:clone": "npm run fluentui-emoji:clean:clone && tsx script/git-clone.config.ts",
+    "fluentui-emoji:svg": "npm run fluentui-emoji:clean:svg && tsx script/copy-svg.script.ts",
+    "svg:optmize:flat": "svgo --config svgo.config.cjs -f svg/flat -o icons/flat",
+    "svg:optmize:high-contrast": "svgo --config svgo.config.cjs -f svg/high-contrast -o icons/high-contrast",
+    "svg:optmize:modern": "svgo --config svgo.config.cjs -f svg/modern -o icons/modern",
+    "svg:optmize": "npm run fluentui-emoji:clean:icons && npm run svg:optmize:flat && npm run svg:optmize:high-contrast && npm run svg:optmize:modern",
+    "fluentui-emoji:jsx": "NODE_OPTIONS=--max-old-space-size=8192 tsx script/jsx.script.ts",
+    "fluentui-emoji:lib": "npm run fluentui-emoji:clean:lib && NODE_OPTIONS=--max-old-space-size=8192 babel build --out-dir lib --copy-files",
+    "fluentui-emoji:pkg": "npm run fluentui-emoji:clean:pkg && tsx script/copy-lib.script.ts",
+    "lint": "biome check ./script",
+    "lint:fix": "biome check ./script --fix",
+    "fmt": "biome format ./script",
+    "fmt:fix": "biome format --write ./script"
   },
-  "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
-  "dependencies": {},
   "devDependencies": {
-    "@babel/cli": "7.19.3",
-    "@babel/core": "7.19.3",
-    "@babel/plugin-syntax-jsx": "7.18.6",
-    "@babel/plugin-transform-parameters": "7.18.8",
-    "@babel/preset-react": "7.18.6",
-    "@types/jsdom": "20.0.0",
-    "@types/node": "18.7.23",
-    "@types/react": "18.0.21",
-    "@types/react-dom": "18.0.6",
-    "@typescript-eslint/eslint-plugin": "5.38.1",
-    "@typescript-eslint/parser": "5.38.1",
+    "@babel/cli": "7.24.8",
+    "@babel/core": "7.25.2",
+    "@babel/plugin-syntax-jsx": "7.24.7",
+    "@babel/plugin-transform-parameters": "7.24.7",
+    "@babel/preset-react": "7.24.7",
+    "@biomejs/biome": "1.8.3",
+    "@types/fs-extra": "11.0.4",
+    "@types/jsdom": "21.1.7",
+    "@types/node": "22.5.0",
+    "@types/react": "18.3.4",
+    "@types/react-dom": "18.3.0",
     "babel-preset-minify": "0.5.2",
-    "esbuild": "0.15.10",
-    "esbuild-runner": "2.2.1",
-    "eslint": "8.24.0",
-    "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-simple-import-sort": "8.0.0",
-    "eslint-plugin-unused-imports": "2.0.0",
-    "jsdom": "20.0.0",
-    "prettier": "2.7.1",
-    "react": "18.2.0",
-    "recursive-directory": "0.0.8",
+    "fs-extra": "11.2.0",
+    "jsdom": "24.1.1",
+    "react": "18.3.1",
+    "recursive-directory": "1.2.3",
+    "rimraf": "6.0.1",
     "svg-to-jsx": "1.0.4",
-    "typescript": "4.8.4"
-  },
-  "sideEffects": false,
-  "exports": {
-    ".": {
-      "require": "./lib/index.js",
-      "import": "./lib/index.js",
-      "types": "./index.d.ts"
-    },
-    "./lib/high-contrast": {
-      "require": "./lib/high-contrast/index.js",
-      "import": "./lib/high-contrast/index.js",
-      "types": "./lib/high-contrast/index.d.ts"
-    },
-    "./lib/high-contrast/icons/*": {
-      "require": "./lib/high-contrast/icons/*.js",
-      "import": "./lib/high-contrast/icons/*.js",
-      "types": "./lib/high-contrast/icons/*.d.ts"
-    },
-    "./lib/flat": {
-      "require": "./lib/flat/index.js",
-      "import": "./lib/flat/index.js",
-      "types": "./lib/flat/index.d.ts"
-    },
-    "./lib/flat/icons/*": {
-      "require": "./lib/flat/icons/*.js",
-      "import": "./lib/flat/icons/*.js",
-      "types": "./lib/flat/icons/*.d.ts"
-    },
-    "./lib/modern": {
-      "require": "./lib/modern/index.js",
-      "import": "./lib/modern/index.js",
-      "types": "./lib/modern/index.d.ts"
-    },
-    "./lib/modern/icons/*": {
-      "require": "./lib/modern/icons/*.js",
-      "import": "./lib/modern/icons/*.js",
-      "types": "./lib/modern/icons/*.d.ts"
-    },
-    "./package.json": "./package.json"
-  },
-  "files": [
-    "/lib",
-    "/index.d.ts"
-  ],
-  "support": {
-    "backing": {
-      "npm-funding": true
-    }
+    "svgo": "3.3.2",
+    "tsx": "4.17.0",
+    "typescript": "5.5.4"
   }
 }
