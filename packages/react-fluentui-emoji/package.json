@@ -1,6 +1,6 @@
 {
   "name": "react-fluentui-emoji",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
   "keywords": [
     "fluentui",
@@ -30,8 +30,7 @@
     "react": "*"
   },
   "dependencies": {},
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "sideEffects": false,
   "exports": {
     ".": {
@@ -71,10 +70,7 @@
     },
     "./package.json": "./package.json"
   },
-  "files": [
-    "/lib",
-    "/index.d.ts"
-  ],
+  "files": ["/lib", "/index.d.ts"],
   "support": {
     "backing": {
       "npm-funding": true

@@ -9,4 +9,3 @@
 
   <img src="https://raw.githubusercontent.com/MKAbuMattar/react-fluentui-emoji/main/assets/banner.webp" alt="@MKAbuMattar/react-fluentui-emoji Banner"/>
 </div>
-
