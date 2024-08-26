@@ -42,6 +42,7 @@
     "fluentui-emoji:jsx": "NODE_OPTIONS=--max-old-space-size=8192 tsx script/jsx.script.ts",
     "fluentui-emoji:lib": "npm run fluentui-emoji:clean:lib && NODE_OPTIONS=--max-old-space-size=8192 babel build --out-dir lib --copy-files",
     "fluentui-emoji:pkg": "npm run fluentui-emoji:clean:pkg && tsx script/copy-lib.script.ts",
+    "build": "npm run fluentui-emoji:clone && npm run fluentui-emoji:svg && npm run svg:optmize && npm run fluentui-emoji:jsx && npm run fluentui-emoji:lib && npm run fluentui-emoji:pkg",
     "lint": "biome check ./script",
     "lint:fix": "biome check ./script --fix",
     "fmt": "biome format ./script",
@@ -59,15 +60,17 @@
     "@types/node": "22.5.0",
     "@types/react": "18.3.4",
     "@types/react-dom": "18.3.0",
+    "@types/uuid": "10.0.0",
     "babel-preset-minify": "0.5.2",
     "fs-extra": "11.2.0",
-    "jsdom": "24.1.1",
+    "jsdom": "25.0.0",
     "react": "18.3.1",
     "recursive-directory": "1.2.3",
     "rimraf": "6.0.1",
     "svg-to-jsx": "1.0.4",
     "svgo": "3.3.2",
-    "tsx": "4.17.0",
-    "typescript": "5.5.4"
+    "tsx": "4.18.0",
+    "typescript": "5.5.4",  
+    "uuid": "10.0.0"
   }
 }
