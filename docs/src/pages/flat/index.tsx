@@ -22,7 +22,7 @@ const Loading: NextPage = () => {
 };
 
 const SVG: NextPage = () => {
-  const code = `import { IconF1stPlaceMedal } from 'react-fluentui-emoji/lib/flat';
+  const code = `import IconF1stPlaceMedal from 'react-fluentui-emoji/icons/flat/IconF1stPlaceMedal';
 
 const App = () => {
   return (

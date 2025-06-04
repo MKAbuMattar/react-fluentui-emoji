@@ -43,7 +43,7 @@ const index: FC<Props> = (props) => {
   };
 
   const myLoader = ({ src, width, quality }: any) => {
-    return `https://cdn.jsdelivr.net/npm/fluentui-emoji@1.0.0/icons/${src}?w=${width}&q=${
+    return `https://cdn.jsdelivr.net/npm/fluentui-emoji@1.2.1/icons/${src}?w=${width}&q=${
       quality || 75
     }`;
   };

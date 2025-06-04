@@ -22,7 +22,7 @@ const Loading: NextPage = () => {
 };
 
 const SVG: NextPage = () => {
-  const code = `import { IconHC1stPlaceMedal } from 'react-fluentui-emoji/lib/high-contrast';
+  const code = `import IconHC1stPlaceMedal from 'react-fluentui-emoji/icons/high-contrast/IconHC1stPlaceMedal';
 
 const App = () => {
   return (

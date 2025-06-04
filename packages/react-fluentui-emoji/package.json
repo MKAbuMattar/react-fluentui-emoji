@@ -1,6 +1,6 @@
 {
   "name": "react-fluentui-emoji",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "React Fluentui Emoji an npm package contains a number of well-known, cordial, and contemporary emoji, build into @microsoft/fluentui-emoji.",
   "keywords": [
     "fluentui",
@@ -38,6 +38,11 @@
       "import": "./lib/index.js",
       "types": "./index.d.ts"
     },
+    "./icons/high-contrast/*": {
+      "require": "./lib/high-contrast/icons/*.js",
+      "import": "./lib/high-contrast/icons/*.js",
+      "types": "./lib/high-contrast/icons/*.d.ts"
+    },
     "./lib/high-contrast": {
       "require": "./lib/high-contrast/index.js",
       "import": "./lib/high-contrast/index.js",
@@ -48,6 +53,11 @@
       "import": "./lib/high-contrast/icons/*.js",
       "types": "./lib/high-contrast/icons/*.d.ts"
     },
+    "./icons/flat/*": {
+      "require": "./lib/flat/icons/*.js",
+      "import": "./lib/flat/icons/*.js",
+      "types": "./lib/flat/icons/*.d.ts"
+    },
     "./lib/flat": {
       "require": "./lib/flat/index.js",
       "import": "./lib/flat/index.js",
@@ -57,6 +67,11 @@
       "require": "./lib/flat/icons/*.js",
       "import": "./lib/flat/icons/*.js",
       "types": "./lib/flat/icons/*.d.ts"
+    },
+    "./icons/modern/*": {
+      "require": "./lib/modern/icons/*.js",
+      "import": "./lib/modern/icons/*.js",
+      "types": "./lib/modern/icons/*.d.ts"
     },
     "./lib/modern": {
       "require": "./lib/modern/index.js",
