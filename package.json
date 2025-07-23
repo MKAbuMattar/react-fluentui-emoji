@@ -49,16 +49,16 @@
     "fmt:fix": "biome format --write ./script"
   },
   "devDependencies": {
-    "@babel/cli": "7.27.2",
-    "@babel/core": "7.27.4",
+    "@babel/cli": "7.28.0",
+    "@babel/core": "7.28.0",
     "@babel/plugin-syntax-jsx": "7.27.1",
-    "@babel/plugin-transform-parameters": "7.27.1",
+    "@babel/plugin-transform-parameters": "7.27.7",
     "@babel/preset-react": "7.27.1",
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.1.2",
     "@types/fs-extra": "11.0.4",
     "@types/jsdom": "21.1.7",
-    "@types/node": "22.15.29",
-    "@types/react": "19.1.6",
+    "@types/node": "24.1.0",
+    "@types/react": "19.1.8",
     "@types/react-dom": "19.1.6",
     "@types/uuid": "10.0.0",
     "babel-preset-minify": "0.5.2",
@@ -68,8 +68,8 @@
     "recursive-directory": "1.2.3",
     "rimraf": "6.0.1",
     "svg-to-jsx": "1.0.4",
-    "svgo": "3.3.2",
-    "tsx": "4.19.4",
+    "svgo": "4.0.0",
+    "tsx": "4.20.3",
     "typescript": "5.8.3",  
     "uuid": "11.1.0"
   }
