@@ -85,7 +85,10 @@
     },
     "./package.json": "./package.json"
   },
-  "files": ["/lib", "/index.d.ts"],
+  "files": [
+    "/lib",
+    "/index.d.ts"
+  ],
   "support": {
     "backing": {
       "npm-funding": true

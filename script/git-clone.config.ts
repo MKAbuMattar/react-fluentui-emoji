@@ -17,6 +17,6 @@ const gitClone = (url: string): void => {
 (() => {
   console.log('Cloning fluentui-emoji...');
   gitClone(
-    'git clone --depth=1 git@github.com:MKAbuMattar/private-fluentui-emoji.git',
+    'git clone --depth=1 git@github.com:MKAbuMattar/public-fluentui-emoji.git',
   );
 })();
