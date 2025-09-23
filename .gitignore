@@ -3,7 +3,7 @@
 build
 dist
 icons
-private-fluentui-emoji
+public-fluentui-emoji
 lib
 node_modules
 src/config/build.config.json
